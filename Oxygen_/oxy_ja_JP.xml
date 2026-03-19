@@ -3912,7 +3912,7 @@
         <val lang="ja_JP">同じトピックへ複数の参照をレポート</val>
     </key>
     <key value="Days_left_for_evaluation">
-        <val lang="ja_JP">　</val>
+        <val lang="ja_JP">評価に残された日数:{0}</val>
     </key>
     <key distribution="eclipse" skipTranslation="true" value="md.content-type">
         <val lang="ja_JP">Oxygen Markdown</val>
@@ -7790,7 +7790,7 @@
         <val lang="ja_JP">指定のファイルには読み込むものがありません。</val>
     </key>
     <key value="Evaluation_use_only">
-        <val lang="ja_JP">28.0</val>
+        <val lang="ja_JP">評価を目的とした使用のみ</val>
     </key>
     <key value="Export_wsdl_settings_tooltip">
         <val lang="ja_JP">設定は WSDL ドキュメントスクリプトの実行に使用できるようになります。</val>
