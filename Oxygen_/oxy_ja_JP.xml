@@ -12587,7 +12587,7 @@
         <val lang="ja_JP">シーケンス</val>
     </key>
     <key value="Recently_used">
-        <val lang="ja_JP">最近使った</val>
+        <val lang="ja_JP">最近使った テンプレート</val>
     </key>
     <key value="Framework_templates">
         <val lang="ja_JP">フレームワーク テンプレート</val>
@@ -13453,7 +13453,7 @@
         <val lang="ja_JP">フォルダーの追加</val>
     </key>
     <key value="New_document">
-        <val lang="ja_JP">新しいドキュメント</val>
+        <val lang="ja_JP">新規ドキュメント</val>
     </key>
     <key value="Scenarios">
         <val lang="ja_JP">シナリオ</val>
