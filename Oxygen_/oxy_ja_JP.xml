@@ -42,10 +42,10 @@
         <val lang="ja_JP">DITAマップ階層全体</val>
     </key>
     <key value="AI_generated_lines">
-        <val lang="ja_JP">AI が生成したライン:</val>
+        <val lang="ja_JP">AI が生成したライン :</val>
     </key>
     <key value="AI_prompt_label">
-        <val lang="ja_JP">AIプロンプト (任意):</val>
+        <val lang="ja_JP">AIプロンプト (任意) :</val>
     </key>
     <key value="Fast_create_topics_allow_AI_to_choose_better_template_tooltip">
         <val lang="ja_JP">トピックのタイトルとAIプロンプトに基づいて、AIがより適切なトピックタイプを選択できるようにします。</val>
@@ -65,7 +65,7 @@
     </key>
     <key value="AI_new_file_template_prompt_description">
         <val lang="ja_JP"
-            >AIに最初のドラフトに含める内容を説明します。簡単な要約を記入するか、ファイル（テキスト、XML、Markdown、Word、PDF、画像）を貼り付けまたはドロップして添付してください。</val>
+            >AIに最初のドラフトに含める内容を説明します。簡単な要約を記入するか、ファイル(テキスト、XML、Markdown、Word、PDF、画像)を貼り付けまたはドロップして添付してください。</val>
     </key>
     <key value="XProc_version">
         <val lang="ja_JP">XProc バージョン</val>
@@ -92,7 +92,7 @@
         <val lang="ja_JP">DITAプロファイリング</val>
     </key>
     <key value="Diff_dirs_edit_file_filters_info">
-        <val lang="ja_JP">テキストフィールドにフォーカスがあるときに {0} を押すと、専用のフィルターエディターダイアログが表示されます</val>
+        <val lang="ja_JP">テキストフィールドにフォーカスがあるときに {0} を押すと、専用のフィルターエディタダイアログが表示されます</val>
     </key>
     <key value="Include_folders">
         <val lang="ja_JP">フォルダーを含める</val>
@@ -357,7 +357,7 @@
         <val lang="ja_JP">垂直バーを表示する</val>
     </key>
     <key value="Accompanying_message_for_link_to_show_space_marks_option">
-        <val lang="ja_JP">以下のオプションを選択することで、すべてのエディターでSPACEマークを表示できます</val>
+        <val lang="ja_JP">以下のオプションを選択することで、すべてのエディタでSPACEマークを表示できます</val>
     </key>
     <key value="Info_disable_option_from_preferences">
         <val lang="ja_JP">この確認を無効にするには、{1} 設定ページの "{0}" オプションを選択解除します。</val>
@@ -415,7 +415,7 @@
         <val lang="ja_JP">参照されたコンテンツ (例 : 外部エンティティ、XInclude、DITA Conref など) を表示する</val>
     </key>
     <key value="Oxygen_recommends_mathml_editor">
-        <val lang="ja_JP">Oxygen は、Wiris MathType または外部 MathML エディターを使用した MathML
+        <val lang="ja_JP">Oxygen は、Wiris MathType または外部 MathML エディタを使用した MathML
             式の編集もサポートしていることにご注意ください。\nMathType を Oxygen にインストールして構成する方法については、以下をご覧ください :</val>
     </key>
     <key value="Prefer_adding_keyrefs_to_already_referenced_resources">
@@ -483,7 +483,7 @@
         <val lang="ja_JP">選択したスキーマは、現在のスキーマと同じです。別のスキーマを選択してください。</val>
     </key>
     <key value="Destination_schema_is_modified">
-        <val lang="ja_JP">宛先スキーマ"{0}"は既に開かれており、エディターで変更されています。\n続行するには、ファイルを保存する必要があります。</val>
+        <val lang="ja_JP">宛先スキーマ"{0}"は既に開かれており、エディタで変更されています。\n続行するには、ファイルを保存する必要があります。</val>
     </key>
     <key distribution="common" value="Extract_definition_in_current_file">
         <val lang="ja_JP">現在のファイルの定義を抽出...</val>
@@ -498,10 +498,10 @@
         <val lang="ja_JP">{0} 個の違いが見つかりました。</val>
     </key>
     <key value="Used_algorithm">
-        <val lang="ja_JP">使用されたアルゴリズム:</val>
+        <val lang="ja_JP">使用されたアルゴリズム :</val>
     </key>
     <key distribution="common" value="Convert_JSON_Schema">
-        <val lang="ja_JP">JSON スキーマを変換する</val>
+        <val lang="ja_JP">JSON スキーマの変換</val>
     </key>
     <key value="Automatically_save_local_dita_maps_after_modification">
         <val lang="ja_JP">各変更後にローカル DITA マップを自動的に保存する</val>
@@ -579,7 +579,7 @@
         <val lang="ja_JP">アプリケーションのライブラリフォルダーには、追加のライブラリが存在します。</val>
     </key>
     <key value="Specify_the_new_name">
-        <val lang="ja_JP">新しい名前を指定:</val>
+        <val lang="ja_JP">新しい名前を指定 :</val>
     </key>
     <key value="Convert_type_to_any_type">
         <val lang="ja_JP">型を「any」型に変換する</val>
@@ -669,16 +669,16 @@
         <val lang="ja_JP">条件付き</val>
     </key>
     <key value="Json_palette_group_tooltip">
-        <val lang="ja_JP">設計ページにドラッグアンドドロップして、新しい "{0}" グループを作成する</val>
+        <val lang="ja_JP">設計ページにドラッグ＆ドロップして、新しい "{0}" グループを作成する</val>
     </key>
     <key value="Json_palette_component_tooltip">
-        <val lang="ja_JP">設計ページにドラッグアンドドロップして、新しい "{0}" コンポーネントを作成する</val>
+        <val lang="ja_JP">設計ページにドラッグ＆ドロップして、新しい "{0}" コンポーネントを作成する</val>
     </key>
     <key value="Json_palette_schema_composition_tooltip">
-        <val lang="ja_JP">設計ページにドラッグアンドドロップして、型 "{0}" のスキーマ構成を追加する</val>
+        <val lang="ja_JP">設計ページにドラッグ＆ドロップして、型 "{0}" のスキーマ構成を追加する</val>
     </key>
     <key value="Json_palette_conditional_tooltip">
-        <val lang="ja_JP">設計ページにドラッグアンドドロップして、型 "{0}" の条件付きを追加する</val>
+        <val lang="ja_JP">設計ページにドラッグ＆ドロップして、型 "{0}" の条件付きを追加する</val>
     </key>
     <key value="json_keyword_examples_tooltip">
         <val lang="ja_JP">"examples" キーワードは、スキーマに対して検証する一連の例を提供します。</val>
@@ -914,10 +914,10 @@
         <val lang="ja_JP">{0} を使用して、上記の更新サイトから検出されたアドオンを確認します。</val>
     </key>
     <key value="Create_placeholder_for_editor">
-        <val lang="ja_JP">対応するエディター タブに切り替えた場合にのみ、ファイル内容を読み込む</val>
+        <val lang="ja_JP">対応するエディタ タブに切り替えた場合にのみ、ファイル内容を読み込む</val>
     </key>
     <key value="Create_placeholder_for_editor_tooltip">
-        <val lang="ja_JP">前のセッションで開いたままにしたファイルはプレースホルダーとして残りますが、ファイル コンテンツは、対応するエディター
+        <val lang="ja_JP">前のセッションで開いたままにしたファイルはプレースホルダーとして残りますが、ファイル コンテンツは、対応するエディタ
             タブに切り替えたときにのみロードされます。これにより、アプリケーションの起動を高速化できます。</val>
     </key>
     <key value="Required_addons_install_question">
@@ -1011,7 +1011,7 @@
         <val lang="ja_JP">検証エンジンを構成する</val>
     </key>
     <key value="Open_script_in_editor">
-        <val lang="ja_JP">エディターでスクリプトを開く</val>
+        <val lang="ja_JP">エディタでスクリプトを開く</val>
     </key>
     <key value="Account">
         <val lang="ja_JP">アカウント</val>
@@ -1103,7 +1103,7 @@
     </key>
     <key
         value="The_feature_to_ignore_validation_problems_can_be_controlled_from_Options>Preferences>_Editor_/_Document_Validation_/_Ignored_Validation_Problems">
-        <val lang="ja_JP">検証の問題を無視する機能は、[オプション] &gt; [設定]&gt; [エディター]/[ドキュメントの検証]/[検証の問題を無視]
+        <val lang="ja_JP">検証の問題を無視する機能は、[オプション] &gt; [設定]&gt; [エディタ]/[ドキュメントの検証]/[検証の問題を無視]
             から制御できます。</val>
     </key>
     <key value="Ignored">
@@ -1114,7 +1114,7 @@
     </key>
     <key value="Switch_editor_tab_info_message">
         <val lang="ja_JP"
-            >"{0}"オプションが選択されている場合、すべての検索条件に一致するファイルのみが表示されます。そうでない場合、検索条件の少なくとも1つに一致するすべてのファイルが表示されます。\nワイルドカード（*、?）が使用されている場合、このオプションは、自動的に無効になります。\n\n"{1}"オプションが選択されている場合、検索はパスを含むように拡張されます。</val>
+            >"{0}"オプションが選択されている場合、すべての検索条件に一致するファイルのみが表示されます。そうでない場合、検索条件の少なくとも1つに一致するすべてのファイルが表示されます。\nワイルドカード(*、?)が使用されている場合、このオプションは、自動的に無効になります。\n\n"{1}"オプションが選択されている場合、検索はパスを含むように拡張されます。</val>
     </key>
     <key value="Authenticating_in_browser">
         <val lang="ja_JP">ブラウザでの認証</val>
@@ -1165,13 +1165,13 @@
     </key>
     <key value="Framework_script_edit_message">
         <val lang="ja_JP"
-            >選択したドキュメントの種類は、拡張スクリプトから生成されました。結果のドキュメントの種類を読み取り専用モードで表示するか、エディターでスクリプトを開いて変更することができます。</val>
+            >選択したドキュメントの種類は、拡張スクリプトから生成されました。結果のドキュメントの種類を読み取り専用モードで表示するか、エディタでスクリプトを開いて変更することができます。</val>
     </key>
     <key value="Ignored_Validation_Problems">
         <val lang="ja_JP">無視された検証の問題</val>
     </key>
     <key value="Generate_JSON_Schema_Documentation">
-        <val lang="ja_JP">JSON スキーマドキュメントを生成する</val>
+        <val lang="ja_JP">JSON スキーマドキュメントの生成</val>
     </key>
     <key distribution="eclipse" value="JSON_to_YAML_eclipse">
         <val lang="ja_JP">JSON から YAML...</val>
@@ -1260,7 +1260,7 @@
         <val lang="ja_JP">参照を削除する</val>
     </key>
     <key value="Move_to_trash">
-        <val lang="ja_JP">ゴミ箱へ移動する</val>
+        <val lang="ja_JP">ごみ箱へ移動する</val>
     </key>
     <key value="Cast">
         <val lang="ja_JP">キャスト</val>
@@ -1412,7 +1412,7 @@
         <val lang="ja_JP">一部のスクリプトはコンパイルされませんでした。詳細については、結果領域を確認してください。</val>
     </key>
     <key value="Compile_framework_extension_script_tooltip">
-        <val lang="ja_JP">対応するフレームワークファイル（* .framework）を生成します。</val>
+        <val lang="ja_JP">対応するフレームワークファイル(* .framework)を生成します。</val>
     </key>
     <key value="Content_fusion_show_tasks_manager_view">
         <val lang="ja_JP">Content Fusion タスクマネージャーパネルを表示する</val>
@@ -1463,7 +1463,7 @@
         <val lang="ja_JP">すべての変更を破棄して、参照されているリソースを再読み込みしますか?</val>
     </key>
     <key value="References_modified_outside_current_editor">
-        <val lang="ja_JP">次の参照リソースは、現在のエディターの外部で変更されました</val>
+        <val lang="ja_JP">次の参照リソースは、現在のエディタの外部で変更されました</val>
     </key>
     <key value="Errors_while_saving_referenced_content_See_results_tab_for_details">
         <val lang="ja_JP">参照されているコンテンツへの変更を保存できません。\n詳細については、結果パネルの"{0}"タブを参照してください。</val>
@@ -1511,8 +1511,8 @@
         <val lang="ja_JP">1 つ以上のテンプレート リソースが宛先フォルダーにすでに存在します。</val>
     </key>
     <key value="File_contains_modified_references_confirm_continue_and_revert_changes">
-        <val lang="ja_JP"
-            >次のファイルには、変更された参照が含まれています:\n{0}\n\n更新操作を続行すると、それらの参照に加えられたすべての変更が失われます。</val>
+        <val lang="ja_JP">次のファイルには、変更された参照が含まれています
+            :\n{0}\n\n更新操作を続行すると、それらの参照に加えられたすべての変更が失われます。</val>
     </key>
     <key value="Project_file_name">
         <val lang="ja_JP">プロジェクト ファイル名</val>
@@ -1543,7 +1543,7 @@
         <val lang="ja_JP">このファイル"{0}"は、DITA マップではないようです。</val>
     </key>
     <key value="Dita_topics_must_open_in_editor">
-        <val lang="ja_JP">DITA トピックは、メイン エディター領域で開く必要があります。</val>
+        <val lang="ja_JP">DITA トピックは、メイン エディタ領域で開く必要があります。</val>
     </key>
     <key value="Switching_to_compare_mode">
         <val lang="ja_JP">"{0}"比較モードに切り替える</val>
@@ -1702,17 +1702,16 @@
         <val lang="ja_JP">Content Fusion タスク マネージャー</val>
     </key>
     <key value="Show_mathml_editor_recommendation">
-        <val lang="ja_JP">MathML エディターの推奨を表示する</val>
+        <val lang="ja_JP">MathML エディタの推奨を表示する</val>
     </key>
     <key value="Command_line_external_mathml_editor_description">
-        <val lang="ja_JP">外部 MathML エディターを開くためのコマンドライン命令。相対パスの代わりに "${cf}"
-            エディター変数を使用する必要があります。</val>
+        <val lang="ja_JP">外部 MathML エディタを開くためのコマンドライン命令。相対パスの代わりに "${cf}" エディタ変数を使用する必要があります。</val>
     </key>
     <key value="Editing_mathml">
         <val lang="ja_JP">MathML の編集</val>
     </key>
     <key value="Waiting_external_mathml_editor">
-        <val lang="ja_JP">外部 MathML エディターが閉じるのを待機しています。</val>
+        <val lang="ja_JP">外部 MathML エディタが閉じるのを待機しています。</val>
     </key>
     <key value="Switch_to_text_mode">
         <val lang="ja_JP">テキストモードに切り替える</val>
@@ -1745,7 +1744,7 @@
         <val lang="ja_JP">操作をドキュメントタイプディレクトリの独自のファイルにエクスポートします。</val>
     </key>
     <key value="Hide_editor_tabs">
-        <val lang="ja_JP">エディタータブを隠す</val>
+        <val lang="ja_JP">エディタタブを隠す</val>
     </key>
     <key value="Pasting_20_licenses_warning">
         <val lang="ja_JP">ライセンスキーには多数の指定ユーザーライセンスが含まれているため、代わりに無料のOxygen License
@@ -1948,7 +1947,7 @@
         <val lang="ja_JP">ファイル {0} への書き込みは、セキュリティ上の理由によりブロックされました。</val>
     </key>
     <key distribution="webauthor" value="one_per_line">
-        <val lang="ja_JP">(1 行に 1 つ):</val>
+        <val lang="ja_JP">(1行に 1つ) :</val>
     </key>
     <key distribution="webauthor" value="trusted_css_urls_referenced">
         <val lang="ja_JP">信頼できる CSS の場所</val>
@@ -2005,7 +2004,7 @@
         <val lang="ja_JP">DITA マップの検証を保存し、プロジェクトレベルで完全性設定を確認する</val>
     </key>
     <key value="Error_parsing_ask_variable_values">
-        <val lang="ja_JP">行 {1}、列 {2} で、''{0}'' エディター変数の可能な値を展開中にエラーが発生しました。可能な値の構文を確認してください:
+        <val lang="ja_JP">行 {1}、列 {2} で、''{0}'' エディタ変数の可能な値を展開中にエラーが発生しました。可能な値の構文を確認してください:
             ''{3}''。</val>
     </key>
     <key value="Project_level_settings">
@@ -2018,7 +2017,7 @@
         <val lang="ja_JP">プロジェクトレベルで DITA メディアワーキングセットを保存する</val>
     </key>
     <key value="Editor_variable_not_expanded_in_css_message">
-        <val lang="ja_JP">{0} エディター変数は CSS ルール内で展開されません。代わりに {1} CSS 関数を使用してください。</val>
+        <val lang="ja_JP">{0} エディタ変数は CSS ルール内で展開されません。代わりに {1} CSS 関数を使用してください。</val>
     </key>
     <key value="Revert_structure_autocorrect">
         <val lang="ja_JP">自動変換を元に戻す</val>
@@ -2136,7 +2135,7 @@
         <val lang="ja_JP">単一行上で圧縮する</val>
     </key>
     <key distribution="common" value="Open_output_file_in_editor_label">
-        <val lang="ja_JP">エディターで出力ファイルを開く</val>
+        <val lang="ja_JP">エディタで出力ファイルを開く</val>
     </key>
     <key distribution="common" value="Remove_comments_label">
         <val lang="ja_JP">コメントの削除</val>
@@ -2161,7 +2160,7 @@
         <val lang="ja_JP">DITA 作業画面への切り替えを提案するダイアログ ボックスを表示する</val>
     </key>
     <key distribution="webauthor" value="Document_change_no_reload_label">
-        <val lang="ja_JP">ページを再読み込みせずエディターを変更する</val>
+        <val lang="ja_JP">ページを再読み込みせずエディタを変更する</val>
     </key>
     <key value="Encode_non_ascii_url">
         <val lang="ja_JP">URL パス内の非 ASCII 文字をエンコードする</val>
@@ -2201,7 +2200,7 @@
         <val lang="ja_JP">DITA 作業画面</val>
     </key>
     <key value="Editor_persp_short_desc">
-        <val lang="ja_JP">エディター 作業画面</val>
+        <val lang="ja_JP">エディタ 作業画面</val>
     </key>
     <key value="Xslt_debug_persp_short_desc">
         <val lang="ja_JP">XSLT デバッガー 作業画面</val>
@@ -2305,7 +2304,7 @@
         <val lang="ja_JP">有効な JSON スキーマを選択してください。</val>
     </key>
     <key value="Error_parsing_editor_variable">
-        <val lang="ja_JP">行 {1}、列 {2} で、''{0}'' エディター変数を展開中にエラーが発生しました。エディター変数の構文を確認してください:
+        <val lang="ja_JP">行 {1}、列 {2} で、''{0}'' エディタ変数を展開中にエラーが発生しました。エディタ変数の構文を確認してください:
             ''{3}''。</val>
     </key>
     <key value="Associate_schema_in_document">
@@ -2328,7 +2327,7 @@
         <val lang="ja_JP">参照スキーマの場合のみ\n - スキーマに再帰呼び出しが含まれる場合(同じプロパティ上)、最大再帰レベルを設定していください。</val>
     </key>
     <key distribution="common" value="Generate_sample_json_files">
-        <val lang="ja_JP">サンプル JSON ファイルを生成する</val>
+        <val lang="ja_JP">サンプル JSON ファイルの生成</val>
     </key>
     <key distribution="eclipse" value="Generate_sample_json_files_eclipse">
         <val lang="ja_JP">サンプル JSON ファイルを生成しています...</val>
@@ -2359,7 +2358,7 @@
             大きなドキュメントを開くための強制初期ページはテキストページです。\n2) 自動検証は無効です。\n3) XPath
             式は、フィルタリング用検索/置換ダイアログでは使用できません。\n4) 双方向ドキュメントの特殊レンダリングはサポートされません。\n5) [Format and indent
             the document on open (開くときドキュメントをフォーマットおよびインデントする)] オプションが有効である場合、 非 XML
-            ドキュメントのフォーマットは無効です。\nXML ドキュメントの場合は、Oxygen の [Editor/Format (エディター/フォーマット)]
+            ドキュメントのフォーマットは無効です。\nXML ドキュメントの場合は、Oxygen の [Editor/Format (エディタ/フォーマット)]
             環境設定ページでのオプション設定に関係なく、メモリ使用法を最適化するためにフォーマットは有効です。\n6) 実行される XPath
             式に対するローカライズの精度が低くなります。\nXPath 式の実行には、メモリ使用量を減らすため、SAX ソースが使用されます。XPath 1.0
             よりも処理速度が向上し、メモリ使用量が少なくなっているため、XPath 2.0 の使用を推奨します。XPath 2.0 は、ディスク上のドキュメントサイズの約 2 ～ 3
@@ -2367,8 +2366,8 @@
     </key>
     <key value="Long_lines_documents_message">
         <val lang="ja_JP"
-            >長い行を含むドキュメントは、テキストエディターで開くとき、性能に影響を与える場合があります。このようなドキュメントを開く場合は、行の折り返し機能が有効になります。また、以下の場合、エディターの一部の機能が影響を受けます:\n1)
-            「等幅」フォントをエディターのフォントとして使用する場合。\n2) 自動検証が無効である場合。\n3) 自動スペルチェックが無効である場合。\n4) XPath
+            >長い行を含むドキュメントは、テキストエディタで開くとき、性能に影響を与える場合があります。このようなドキュメントを開く場合は、行の折り返し機能が有効になります。また、以下の場合、エディタの一部の機能が影響を受けます:\n1)
+            「等幅」フォントをエディタのフォントとして使用する場合。\n2) 自動検証が無効である場合。\n3) 自動スペルチェックが無効である場合。\n4) XPath
             式がフィルタリング用に検索/置換ダイアログを使用できない場合。\n5) 実行される XPath 式のローカライズの精度が低い場合。\nXPath
             式の実行には、メモリ使用量を減らすため、SAX ソースが使用されます。XPath 1.0 よりも処理速度が向上し、メモリ使用量が少なくなっているため、XPath 2.0
             の使用を推奨します。XPath 2.0 は、ディスク上のドキュメントサイズの約 2 ～ 3 倍のメモリを必要とします。</val>
@@ -2429,7 +2428,7 @@
             >このオプションを使用して、これらのライセンスを挿入することはできません。\n代わりに「ライセンスサーバーを使用する」オプションを選択してください。\nサーバーの資格情報については、システム管理者にお問い合わせください。</val>
     </key>
     <key value="Question_open_next_document_with_reviews">
-        <val lang="ja_JP">レビュー項目を含む次のドキュメントに（現在のDITAマップから）移動しますか？</val>
+        <val lang="ja_JP">レビュー項目を含む次のドキュメントに(現在のDITAマップから)移動しますか？</val>
     </key>
     <key distribution="webauthor" value="Table_Header">
         <val lang="ja_JP">ヘッダー</val>
@@ -2450,7 +2449,7 @@
         <val lang="ja_JP">保存する前にドキュメントを検証する</val>
     </key>
     <key distribution="common" value="Document_validation">
-        <val lang="ja_JP">ドキュメント検証</val>
+        <val lang="ja_JP">ドキュメントの検証</val>
     </key>
     <key value="Auto_recover_location_must_be_on_local_drive">
         <val lang="ja_JP">自動回復ファイルの場所は、ローカルドライブにある必要があります。</val>
@@ -2459,7 +2458,7 @@
         <val lang="ja_JP">DITAマップマネージャーで地図を開くときにインデックスを更新する</val>
     </key>
     <key value="Enable_indexing_for_remote_resources">
-        <val lang="ja_JP">リモートリソース :（Web、CMSなど）のインデックス作成を有効にする。</val>
+        <val lang="ja_JP">リモートリソース :(Web、CMSなど)のインデックス作成を有効にする。</val>
     </key>
     <key value="No_writing_permissions_for_chosen_location">
         <val lang="ja_JP">Oxygenには選択された場所への書き込み権限がありません。</val>
@@ -2560,7 +2559,7 @@
         <val lang="ja_JP">カスタムインストールディレクトリ</val>
     </key>
     <key value="Memory_av_to_processor">
-        <val lang="ja_JP">プロセッサーに使用可能なメモリ（MB）</val>
+        <val lang="ja_JP">プロセッサーに使用可能なメモリ (MB)</val>
     </key>
     <key value="Edit_XML_TO_PDF_Scenario">
         <val lang="ja_JP">XMLをPDFシナリオに編集する</val>
@@ -2578,16 +2577,16 @@
         <val lang="ja_JP">FO ファイルをダンプする</val>
     </key>
     <key value="dump_intermediate_annotated_xml">
-        <val lang="ja_JP">注釈付きの中間XMLをダンプする</val>
+        <val lang="ja_JP">注釈付きの中間 XML をダンプする</val>
     </key>
     <key value="Check_dump_XML_tooltip">
-        <val lang="ja_JP">中間スタイルの注釈付きXMLファイルを出力の隣にダンプする場合は、これにチェックを入れてください</val>
+        <val lang="ja_JP">中間スタイルの注釈付き XMLファイルを出力の隣にダンプする場合は、これにチェックを入れてください</val>
     </key>
     <key value="Check_dump_FO_tooltip">
         <val lang="ja_JP">FO ファイルをPDFに変換する前にダンプしたい場合は、これをチェック入れてください</val>
     </key>
     <key value="Apply_Chemistry_XML_input_required">
-        <val lang="ja_JP">Chemistry変換の入力として有効なXML URLが必要です</val>
+        <val lang="ja_JP">Chemistry変換の入力として有効な XML URLが必要です</val>
     </key>
     <key value="Learn_word_s">
         <val lang="ja_JP">単語を学習する</val>
@@ -2633,7 +2632,7 @@
         <val lang="ja_JP">現在のライセンスはあなたの要求によって削除されました。</val>
     </key>
     <key value="Http_https_backup_server">
-        <val lang="ja_JP">バックアップHTTP/HTTPSサーバー</val>
+        <val lang="ja_JP">バックアップ HTTP/HTTPS サーバー</val>
     </key>
     <key value="Insert_new_line">
         <val lang="ja_JP">改行を挿入する</val>
@@ -2657,7 +2656,7 @@
         <val lang="ja_JP">管理者によりライセンスが無効化されました。</val>
     </key>
     <key value="File_chooser_opens">
-        <val lang="ja_JP">ファイル選択ツールで開く:</val>
+        <val lang="ja_JP">ファイル選択ツールで開く :</val>
     </key>
     <key value="Other_views">
         <val lang="ja_JP">その他のパネル</val>
@@ -2685,7 +2684,7 @@
         <val lang="ja_JP">選択されたファイルのディレクトリ</val>
     </key>
     <key value="Row_has_colname_and_namest_or_nameend">
-        <val lang="ja_JP">列名開始（namest）または列名終了（nameend）が指定されている場合、列名（colname）属性が存在していなければなりません。</val>
+        <val lang="ja_JP">列名開始(namest)または列名終了(nameend)が指定されている場合、列名(colname)属性が存在していなければなりません。</val>
     </key>
     <key value="No_json_schema_associated">
         <val lang="ja_JP">関連するJSONスキーマがありません</val>
@@ -2737,7 +2736,7 @@
     </key>
     <key value="Publishing_template_save_as_params_information">
         <val lang="ja_JP"
-            >一部のパラメータがコンピュータ上のリソース（例えば、カスタムHTMLフラグメントまたはCSSファイル）を参照している可能性があります。これらのリソースは、新しいテンプレートパッケージに自動的にコピーされ、これらの参照は、それに応じて、変更されます。\n\nただし、カスタムHTMLフラグメントまたはCSSファイル内で参照されている追加のリソースは自動的にコピーされません。新しいテンプレートパッケージに手動で追加して、参照先を更新する必要があります。</val>
+            >一部のパラメータがコンピュータ上のリソース(例えば、カスタムHTMLフラグメントまたはCSSファイル)を参照している可能性があります。これらのリソースは、新しいテンプレートパッケージに自動的にコピーされ、これらの参照は、それに応じて、変更されます。\n\nただし、カスタムHTMLフラグメントまたはCSSファイル内で参照されている追加のリソースは自動的にコピーされません。新しいテンプレートパッケージに手動で追加して、参照先を更新する必要があります。</val>
     </key>
     <key value="Save_template_problems">
         <val lang="ja_JP">テンプレートの問題を保存</val>
@@ -2756,7 +2755,7 @@
         <val lang="ja_JP">フォルダーが見つかりません :{0}</val>
     </key>
     <key value="Move_topics_to_trash_confirmation">
-        <val lang="ja_JP">選択した項目をゴミ箱に移動しますか？</val>
+        <val lang="ja_JP">選択した項目をごみ箱に移動しますか？</val>
     </key>
     <key value="Template_specify_valid_info_for_save">
         <val lang="ja_JP">有効な名前またはテンプレートパッケージ参照パスが指定されていないため、保存操作に失敗しました。</val>
@@ -2801,10 +2800,10 @@
         <val lang="ja_JP">選択したトピックを完全に削除しますか？</val>
     </key>
     <key value="Move_topics_to_recycle_bin_confirmation">
-        <val lang="ja_JP">選択したトピックをゴミ箱に移動しますか？</val>
+        <val lang="ja_JP">選択したトピックをごみ箱に移動しますか？</val>
     </key>
     <key value="Move_topics_to_Trash_confirmation">
-        <val lang="ja_JP">選択したトピックをゴミ箱に移動しますか？</val>
+        <val lang="ja_JP">選択したトピックをごみ箱に移動しますか？</val>
     </key>
     <key value="Plugin_function_description">
         <val lang="ja_JP">指定したプラグインのディレクトリ</val>
@@ -2915,7 +2914,7 @@
         <val lang="ja_JP">続行しますか？</val>
     </key>
     <key value="DITA_only">
-        <val lang="ja_JP">DITAのみ</val>
+        <val lang="ja_JP">DITA のみ</val>
     </key>
     <key value="Duplicate_lines_down">
         <val lang="ja_JP">行を下に複製</val>
@@ -3039,7 +3038,7 @@
         <val lang="ja_JP">重複したキー定義を報告する</val>
     </key>
     <key value="Component_dependencies_view_info_message">
-        <val lang="ja_JP">コンポーネントの依存性を表示するには、エディターのコンテキストメニューから、"{0}"操作を使用することができます。\n
+        <val lang="ja_JP">コンポーネントの依存性を表示するには、エディタのコンテキストメニューから、"{0}"操作を使用することができます。\n
             \nこの操作は、次のコンテンツタイプに対して利用可能です: XML, XSD、RNG、NVDL、XSL、Ant、およびWSDL。</val>
     </key>
     <key value="Modification_failed_due_to">
@@ -3058,7 +3057,7 @@
         <val lang="ja_JP">{0} が終了しました</val>
     </key>
     <key value="XML_catalogs_list_description">
-        <val lang="ja_JP">セミコロン（;）で区切られた、すべての既知のXMLカタログファイルを指すファイルパスのリスト</val>
+        <val lang="ja_JP">セミコロン(;)で区切られた、すべての既知のXMLカタログファイルを指すファイルパスのリスト</val>
     </key>
     <key value="RNG_Skip_data_attrs">
         <val lang="ja_JP">XHTMLの"data-"属性を無視する</val>
@@ -3145,7 +3144,7 @@
         <val lang="ja_JP">最近使用した順</val>
     </key>
     <key value="Order_of_switching_between_editor_tabs">
-        <val lang="ja_JP">エディタータブの切り替え順序</val>
+        <val lang="ja_JP">エディタタブの切り替え順序</val>
     </key>
     <key value="All_attributes">
         <val lang="ja_JP">すべての属性</val>
@@ -3154,7 +3153,7 @@
         <val lang="ja_JP">次のファイルは、ファイルシステムに存在しません :\n{0}</val>
     </key>
     <key value="File_is_missing_keep_open">
-        <val lang="ja_JP">次のファイルは、ファイルシステムに存在しません :\n{0}\n\nエディターで開いたままにしますか？</val>
+        <val lang="ja_JP">次のファイルは、ファイルシステムに存在しません :\n{0}\n\nエディタで開いたままにしますか？</val>
     </key>
     <key value="Open_merged_files">
         <val lang="ja_JP">結合されたファイルを開く</val>
@@ -3202,7 +3201,7 @@
         <val lang="ja_JP">コミュニティの更新サイト</val>
     </key>
     <key value="Ant_build">
-        <val lang="ja_JP">Antのビルド</val>
+        <val lang="ja_JP">Ant のビルド</val>
     </key>
     <key value="Dita_resource">
         <val lang="ja_JP">DITA リソース</val>
@@ -3250,7 +3249,7 @@
         <val lang="ja_JP">ドキュメントが手動で結合されました。</val>
     </key>
     <key value="Close_Diff_Presenter">
-        <val lang="ja_JP">Diffプレゼンターを閉じる</val>
+        <val lang="ja_JP">差分プレゼンターを閉じる</val>
     </key>
     <key value="Select_action">
         <val lang="ja_JP">操作を選択する</val>
@@ -3439,7 +3438,7 @@
         <val lang="ja_JP">フィルター処理されたコンテンツ</val>
     </key>
     <key value="characters_no_spaces">
-        <val lang="ja_JP">文字（スペース無し）</val>
+        <val lang="ja_JP">文字 (スペース無し)</val>
     </key>
     <key value="Recommend_include_email_address">
         <val lang="ja_JP">当社のサポート チームが問題解決のサポートの件でお客様にご連絡できるよう、メールアドレスをご記入になることをお勧めします。</val>
@@ -3534,7 +3533,7 @@
         <val lang="ja_JP">初期状態の追跡を変更する :</val>
     </key>
     <key value="Logging">
-        <val lang="ja_JP">ロギング中</val>
+        <val lang="ja_JP">ログ</val>
     </key>
     <key distribution="webauthor" value="Log_file">
         <val lang="ja_JP">ログファイル :</val>
@@ -3652,11 +3651,11 @@
     </key>
     <key value="Fast_create_topics_first_helper">
         <val lang="ja_JP"
-            >直ちに複数のトピックを作成することができます。行当たり1つのトピックのタイトルを入力し、インデント（タブまたは空白文字）を使って、トピック階層を整理します。</val>
+            >直ちに複数のトピックを作成することができます。行当たり1つのトピックのタイトルを入力し、インデント(タブまたは空白文字)を使って、トピック階層を整理します。</val>
     </key>
     <key value="Fast_create_topics_second_helper">
         <val lang="ja_JP"
-            >トピック参照は、DITAマップマネージャーまたはドラッグアンドドロップを通して、"レベル上げ/レベル下げ"および"上/下に移動"コンテキストメニュー操作を使って、後で整理することができます。
+            >トピック参照は、DITAマップマネージャーまたはドラッグ＆ドロップを通して、"レベル上げ/レベル下げ"および"上/下に移動"コンテキストメニュー操作を使って、後で整理することができます。
         </val>
     </key>
     <key value="Fast_create_topics_third_helper">
@@ -3687,7 +3686,7 @@
         <val lang="ja_JP">リソースを変換する</val>
     </key>
     <key value="Column_width_value_incorrect">
-        <val lang="ja_JP">列幅（{0}）は、比例単位と測定単位の小数点数値の組み合わせである必要があります。</val>
+        <val lang="ja_JP">列幅({0})は、比例単位と測定単位の小数点数値の組み合わせである必要があります。</val>
     </key>
     <key distribution="common" value="Reject_change_and_move_to_next">
         <val lang="ja_JP">変更を拒否し、次に移動する</val>
@@ -3717,16 +3716,16 @@
         <val lang="ja_JP">処理するXMLファイルのコピーを作成し、この操作を元のファイル以外で実行することを強く推奨します。そうしないと、元の内容が失われます。</val>
     </key>
     <key value="Preserve_space_elements_explanation">
-        <val lang="ja_JP">空白を含む要素名または簡易XPath式（名前および属性テスト）は、保存されます</val>
+        <val lang="ja_JP">空白を含む要素名または簡易XPath式(名前および属性テスト)は、保存されます</val>
     </key>
     <key value="Default_space_elements_explanation">
-        <val lang="ja_JP">空白を含む要素名または簡易XPath式（名前および属性テスト）は、正規化されます</val>
+        <val lang="ja_JP">空白を含む要素名または簡易XPath式(名前および属性テスト)は、正規化されます</val>
     </key>
     <key value="Mixed_content_elements_explanation">
-        <val lang="ja_JP">改行を含む要素名または簡易XPath式（名前および属性テスト）は、隣接する子要素の間に挿入されません</val>
+        <val lang="ja_JP">改行を含む要素名または簡易XPath式(名前および属性テスト)は、隣接する子要素の間に挿入されません</val>
     </key>
     <key value="line_break_elements_explanation">
-        <val lang="ja_JP">改行を含む要素名または簡易XPath式（名前および属性テスト）は、それらの前後に挿入されます</val>
+        <val lang="ja_JP">改行を含む要素名または簡易XPath式(名前および属性テスト)は、それらの前後に挿入されます</val>
     </key>
     <key value="Xquery_empty_sequence_returned">
         <val lang="ja_JP">クエリは、空のシーケンスに戻りました。</val>
@@ -3774,7 +3773,7 @@
         <val lang="ja_JP">他ユーザーにより行われた変更を含む指定されたディレクトリは、ファイルです。</val>
     </key>
     <key value="Merge_three_way_description">
-        <val lang="ja_JP">元の基準ファイルセット（変更前）および変更されたファイルセットを含むディレクトリを指定します。</val>
+        <val lang="ja_JP">元の基準ファイルセット(変更前)および変更されたファイルセットを含むディレクトリを指定します。</val>
     </key>
     <key value="Merge_base_directory_description">
         <val lang="ja_JP">元のファイルセット</val>
@@ -3807,13 +3806,13 @@
         <val lang="ja_JP">あなたの変更を含むディレクトリ</val>
     </key>
     <key value="Named_directory_does_not_exist">
-        <val lang="ja_JP">ディレクトリ {0}が存在しません。</val>
+        <val lang="ja_JP">ディレクトリ {0} が存在しません。</val>
     </key>
     <key value="Merged_directories_not_null">
-        <val lang="ja_JP">結合されたディレクトリは、ヌルである必要があります。</val>
+        <val lang="ja_JP">結合されたディレクトリは、Nullである必要があります。</val>
     </key>
     <key value="Compare_directories_three_way">
-        <val lang="ja_JP">基準に対してディレクトリを比較する（3つの方法） </val>
+        <val lang="ja_JP">基準に対してディレクトリを比較する(3つの方法) </val>
     </key>
     <key value="Confirm_close_dialog">
         <val lang="ja_JP">ダイアログを閉じますか？</val>
@@ -3939,7 +3938,7 @@
         <val lang="ja_JP">現在のUI言語</val>
     </key>
     <key value="Generic_language_no_stemming">
-        <val lang="ja_JP">一般的な言語（ステミングなし）</val>
+        <val lang="ja_JP">一般的な言語 (ステミングなし)</val>
     </key>
     <key value="Report_invalid_attr_vals_found_in_doc">
         <val lang="ja_JP">無効なプロファイリング属性値をレポート</val>
@@ -3948,7 +3947,7 @@
         <val lang="ja_JP">追加のプロファイリング属性値の登録を許可する</val>
     </key>
     <key value="Xslt_editor_content_completion_options">
-        <val lang="ja_JP">XSLTエディターコンテンツ完了オプション</val>
+        <val lang="ja_JP">XSLTエディタコンテンツ完了オプション</val>
     </key>
     <key distribution="common" value="Export_dita_topic">
         <val lang="ja_JP">DITAトピックのエクスポート</val>
@@ -4243,8 +4242,8 @@
         <val lang="ja_JP">XSLT/XPath 関数のシグネチャーを非表示</val>
     </key>
     <key value="Hide_function_signatures_confirmation_message">
-        <val lang="ja_JP">XSLT/XPath 関数のシグネチャーを非表示にしますか？\n\n
-            エディター/コンテンツ完了/XPath 優先ページからこのオプションを再有効化できます。</val>
+        <val lang="ja_JP">XSLT/XPath 関数のシグネチャーを非表示にしますか？\n\n エディタ/コンテンツ完了/XPath
+            優先ページからこのオプションを再有効化できます。</val>
     </key>
     <key value="Hide_signatures">
         <val lang="ja_JP">シグネチャーを非表示にする</val>
@@ -4311,7 +4310,7 @@
         <val lang="ja_JP">画像がフォーマットに対応していないか、破損しています。</val>
     </key>
     <key value="Image_map_editor">
-        <val lang="ja_JP">イメージマップエディター</val>
+        <val lang="ja_JP">イメージマップエディタ</val>
     </key>
     <key value="Show_layers">
         <val lang="ja_JP">番号の表示/非表示</val>
@@ -4845,7 +4844,7 @@
         <val lang="ja_JP">編集中に現在のロックが期限切れになると、現在のロック所有者による変更を上書きしてしまう恐れがあります。</val>
     </key>
     <key value="Recommended_to_close">
-        <val lang="ja_JP">エディターを閉じることを強くお勧めします。</val>
+        <val lang="ja_JP">エディタを閉じることを強くお勧めします。</val>
     </key>
     <key value="Recommended_to_cancel">
         <val lang="ja_JP">開く操作をキャンセルすることを強くお勧めします。</val>
@@ -5113,7 +5112,7 @@
         <val lang="ja_JP">その他のカラー</val>
     </key>
     <key value="Table_grid_border">
-        <val lang="ja_JP">境界性およびテーブルグリッド</val>
+        <val lang="ja_JP">境界線およびテーブルグリッド</val>
     </key>
     <key value="new_messages">
         <val lang="ja_JP">{0} 新しいメッセージ</val>
@@ -5243,13 +5242,13 @@
         <val lang="ja_JP">"{1}" オプションページの "{0}" オプションを変更することで、この制限をカスタマイズすることができます。</val>
     </key>
     <key value="Bidirectional_text_limit">
-        <val lang="ja_JP">以下より大きいドキュメントに対する特殊文字サポートを無効にする</val>
+        <val lang="ja_JP">指定より大きいドキュメントに対する特殊文字サポートを無効にする</val>
     </key>
     <key value="When_bidi_text_detected">
         <val lang="ja_JP">双方向テキスト、アジア言語、または、その他の特殊文字が検出された場合</val>
     </key>
     <key value="Bidirectional_text">
-        <val lang="ja_JP">双方向（混合）テキスト</val>
+        <val lang="ja_JP">双方向 (混合) テキスト</val>
     </key>
     <key value="Enable_support_for_special_characters">
         <val lang="ja_JP">特殊文字に対するサポートを有効にする</val>
@@ -5674,13 +5673,13 @@
         <val lang="ja_JP">未参照のリソースを検索する</val>
     </key>
     <key value="Structure_editor_RB">
-        <val lang="ja_JP">構造エディター</val>
+        <val lang="ja_JP">構造エディタ</val>
     </key>
     <key value="Style_editor_RB">
-        <val lang="ja_JP">スタイル エディター</val>
+        <val lang="ja_JP">スタイル エディタ</val>
     </key>
     <key value="Simple_editor_RB">
-        <val lang="ja_JP">シンプル エディター</val>
+        <val lang="ja_JP">シンプル エディタ</val>
     </key>
     <key value="Save_special_characters">
         <val lang="ja_JP">特殊文字を保存する</val>
@@ -5876,8 +5875,8 @@
         <val lang="ja_JP">キーは以下から集められました : {0}.</val>
     </key>
     <key value="Prefer_comments_start_with_doc_additional_info">
-        <val lang="ja_JP"> DTD ドキュメントにおける専用注釈 サポートの欠如に対処するために、Oxygenは、"doc:" 接頭辞をDTD スキーマに対して検証された XML
-            を書く開発者に対して表示することを意図するすべてのコメントを付けることを推奨します。\n\nこのオプションが有効である場合、Oxygen
+        <val lang="ja_JP"> DTD ドキュメントにおける専用注釈 サポートの欠如に対処するために、Oxygenは、"doc:" 接頭辞をDTD スキーマに対して検証された
+            XML を書く開発者に対して表示することを意図するすべてのコメントを付けることを推奨します。\n\nこのオプションが有効である場合、Oxygen
             は注釈を収集するために以下のメカニズムを使用します:\n - 少なくとも一つの "doc:"コメントが全 DTD
             内に見つかった場合、このタイプのコメントのみを注釈として表示します\n - "doc:"コメントが全 DTD
             内に見つからなかった場合、すべてのコメントを注釈とみなし、そのように表示します\n\nオプションが無効の場合、それらのタイプに関わらず、すべてのコメントを注釈とみなし、そのように表示します。
@@ -5906,7 +5905,7 @@
         <val lang="ja_JP">Oxygen で開く</val>
     </key>
     <key value="Xsd_palette_override_tooltip">
-        <val lang="ja_JP">"override"(上書き) 命令を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"override"(上書き) 命令を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_open_content_tooltip">
         <val lang="ja_JP">複合型で開く内容を特定するには、デザインページにドラッグ＆ドロップします。</val>
@@ -6246,7 +6245,7 @@
     </key>
     <key value="Storage_location_error_message">
         <val lang="ja_JP">"{0}"ファイルは、"Document Type
-            Association/Locations"（ドキュメントタイプの関連付け/位置）設定ページから、設定されたフレームワークディレクトリのサブディレクトリの1つに保存する必要があります。</val>
+            Association/Locations"(ドキュメントタイプの関連付け/位置)設定ページから、設定されたフレームワークディレクトリのサブディレクトリの1つに保存する必要があります。</val>
     </key>
     <key value="Ant_cc_internal_error_message">
         <val lang="ja_JP">Antドキュメントのコンテンツ補完サポートは内部エラーのため使用できません。</val>
@@ -6358,10 +6357,10 @@
         <val lang="ja_JP">検索範囲を制限するには、XPath 2.0式を入力します。\n整形されたXMLドキュメントでのみ使用できます。</val>
     </key>
     <key value="Use_in_replace_tooltip">
-        <val lang="ja_JP">「正規表現」の有効時は、"$1"、"$2"などのキャプチャーグループのマッチングをサポートします。</val>
+        <val lang="ja_JP">「正規表現」の有効時は、"$1"、"$2"などのキャプチャーグループの一致ングをサポートします。</val>
     </key>
     <key value="Only_record_the_merge">
-        <val lang="ja_JP">結合の記録のみ（リビジョンの結合をブロック）行う</val>
+        <val lang="ja_JP">結合の記録のみ(リビジョンの結合をブロック)行う</val>
     </key>
     <key value="Svn_only_record_the_merge_tooltip">
         <val lang="ja_JP">結合済みとしてリビジョンをマークしますが、実際には結合を実行しません。\nこれによって将来的なリビジョンの結合がブロックされます。</val>
@@ -6415,7 +6414,7 @@
             >ターゲットブランチは元々ソースブランチをコピーして作成されており、ブランチングのため、ソースブランチに行われた変更は、ターゲットブランチにも適用されています。\n\nソースブランチを常に最新な状態に維持するため、定期的にブランチを同期化する必要があります。</val>
     </key>
     <key value="Svn_merge_revisions_short_description">
-        <val lang="ja_JP">ブランチから別のブランチに特定のリビジョン（またはリビジョン範囲）を結合します。</val>
+        <val lang="ja_JP">ブランチから別のブランチに特定のリビジョン(またはリビジョン範囲)を結合します。</val>
     </key>
     <key value="Svn_merge_revisions_description">
         <val lang="ja_JP">ソースブランチの異なるリビジョンに対して行われた変更は、ターゲットブランチに結合されます。</val>
@@ -6604,7 +6603,7 @@
         <val lang="ja_JP">現在の行に達するまで、ブレークポイントに達するまで、または実行が終了するまで実行します。</val>
     </key>
     <key value="Run_to_end_description">
-        <val lang="ja_JP">ブレークポイントの有効化を考慮せず（存在する場合）、最後まで変換を実行します。</val>
+        <val lang="ja_JP">ブレークポイントの有効化を考慮せず(存在する場合)、最後まで変換を実行します。</val>
     </key>
     <key value="Pause_description">
         <val lang="ja_JP">できるだけ速やかに現在の変換の一時停止を要求します。</val>
@@ -6856,7 +6855,7 @@
         <val lang="ja_JP">Saxon-JSの拡張機能と説明を登録する</val>
     </key>
     <key value="Ant_build_patterns">
-        <val lang="ja_JP">Ant構築パターン</val>
+        <val lang="ja_JP">Ant 構築パターン</val>
     </key>
     <key value="You_can_perform_search_references_on_ANT">
         <val lang="ja_JP">この操作は、ターゲット、拡張ポイント、プロパティ、参照に対して実行できます。</val>
@@ -6889,7 +6888,7 @@
         <val lang="ja_JP">現在のキー定義に定義された参照はありません。</val>
     </key>
     <key value="Enable_mark_occurrences_ant_files">
-        <val lang="ja_JP">Antファイル（ターゲット、拡張ポイントなど）</val>
+        <val lang="ja_JP">Antファイル(ターゲット、拡張ポイントなど)</val>
     </key>
     <key value="Defined_attributes_styles_category">
         <val lang="ja_JP">定義された属性値</val>
@@ -6925,7 +6924,7 @@
         <val lang="ja_JP">プロファイリングスタイルをプレビューするためにテキストをサンプリング。</val>
     </key>
     <key value="Show_profiling_attr_name">
-        <val lang="ja_JP">プロファイリング属性名を表示する</val>
+        <val lang="ja_JP">プロファイリング属性名を表示</val>
     </key>
     <key value="No_profiling_styles_defined">
         <val lang="ja_JP">定義されたプロファイリングスタイルはありません。\n今すぐプロファイリングスタイルを定義しますか？</val>
@@ -7006,7 +7005,7 @@
         <val lang="ja_JP">プロファイリングスタイル</val>
     </key>
     <key value="Apply_profiling_styles">
-        <val lang="ja_JP">プロファイリング色とスタイルを表示する</val>
+        <val lang="ja_JP">プロファイリング色とスタイルを表示</val>
     </key>
     <key value="Style">
         <val lang="ja_JP">スタイル</val>
@@ -7153,13 +7152,13 @@
         <val lang="ja_JP">異なるレターケースとの一致が検出されました。あなたの希望するものを選択します:</val>
     </key>
     <key value="Modify_only_matches_with_same_letter_case">
-        <val lang="ja_JP">現在のもの（"{0}"）と同じレターケースと一致するものだけ修正する</val>
+        <val lang="ja_JP">現在のもの("{0}")と同じレターケースと一致するものだけ修正する</val>
     </key>
     <key value="Modify_all_matches">
         <val lang="ja_JP">すべての一致を修正する</val>
     </key>
     <key value="Enable_mark_occurrences_Schematron_files">
-        <val lang="ja_JP">Schematron ファイル（パターン、フェーズ、診断など）</val>
+        <val lang="ja_JP">Schematron ファイル (パターン、フェーズ、診断など)</val>
     </key>
     <key value="You_can_perform_this_operation_on_Schematron">
         <val lang="ja_JP">パターン、フェーズ、診断でこの操作を実行できます。</val>
@@ -7236,25 +7235,25 @@
         <val lang="ja_JP">XML スキーマバージョンを選択する</val>
     </key>
     <key value="Schema_min_max_versions_not_supported">
-        <val lang="ja_JP">ドキュメントで指定された XML
-            スキーマバージョンは、サポートされません（minVersion="{0}"、maxVersion="{1}"）。Oxygen では、XML スキーマバージョン 1.0 および
-            1.1 のみがサポートされます。</val>
+        <val lang="ja_JP">ドキュメントで指定された XML スキーマバージョンは、サポートされません
+            (minVersion="{0}"、maxVersion="{1}")。Oxygen では、XML スキーマバージョン 1.0 および 1.1
+            のみがサポートされます。</val>
     </key>
     <key value="Schema_max_version_smaller">
         <val lang="ja_JP">"maxVersion" 属性値が XML スキーマ
-            1.0（maxVersion="{0}"）よりも小さいので、スキーマ宣言が無視されます。</val>
+            1.0(maxVersion="{0}")よりも小さいので、スキーマ宣言が無視されます。</val>
     </key>
     <key value="Schema_min_version_greater">
         <val lang="ja_JP">"minVersion" 属性値が XML スキーマ
-            1.1（minVersion="{0}"）よりも大きいので、スキーマ宣言が無視されます。</val>
+            1.1(minVersion="{0}")よりも大きいので、スキーマ宣言が無視されます。</val>
     </key>
     <key value="Schema_min_max_version_greater">
         <val lang="ja_JP">"minVersion" 属性値が "maxVersion"
-            属性値よりも大きいので（minVersion="{0}"、maxVersion="{1}")、スキーマ宣言が無視されます。</val>
+            属性値よりも大きいので(minVersion="{0}"、maxVersion="{1}")、スキーマ宣言が無視されます。</val>
     </key>
     <key value="Schema_min_max_version_equal">
-        <val lang="ja_JP">"minVersion" 属性値が "maxVersion"
-            属性値と等しいので（minVersion="{0}"、maxVersion="{1}")、スキーマ宣言が無視されます。</val>
+        <val lang="ja_JP">"minVersion" 属性値が "maxVersion" 属性値と等しいので
+            (minVersion="{0}"、maxVersion="{1}")、スキーマ宣言が無視されます。</val>
     </key>
     <key value="Start_flattening_the_XML_Schemas">
         <val lang="ja_JP">XML スキーマのフラット化を開始する</val>
@@ -7320,7 +7319,7 @@
         <val lang="ja_JP">{0} ページの読み込み操作がキャンセルされました。</val>
     </key>
     <key value="Svn_show_confirm_dialog_when_dnd">
-        <val lang="ja_JP">レポジトリおよび作業コピーパネルでドラッグアンドドロップ操作用の確認ダイアログを表示する</val>
+        <val lang="ja_JP">レポジトリおよび作業コピーパネルでドラッグ＆ドロップ操作用の確認ダイアログを表示する</val>
     </key>
     <key value="Svn_dnd_copy_confirmation_message">
         <val lang="ja_JP">選択した項目を "{0}" ディレクトリにコピーしますか？</val>
@@ -7329,8 +7328,8 @@
         <val lang="ja_JP">選択した項目を "{0}" ディレクトリに移動しますか？</val>
     </key>
     <key value="Diff_dirs_status_message">
-        <val lang="ja_JP">''{0}'' を使用して比較しました。{1} 件の違い（{2} 件の変更されたファイル、左側に {3} 件の新しいファイル、右側に {4}
-            件の新しいファイル）があります。</val>
+        <val lang="ja_JP">''{0}'' を使用して比較しました。{1} 件の違い ({2} 件の変更されたファイル、左側に {3} 件の新しいファイル、右側に {4}
+            件の新しいファイル)があります。</val>
     </key>
     <key value="Update_references_failed_rename">
         <val lang="ja_JP">リソースの名前変更ができなかったので、参照の更新操作に失敗しました。</val>
@@ -7409,10 +7408,10 @@
         <val lang="ja_JP">名前変更されたディレクトリからリソースの参照を更新</val>
     </key>
     <key value="Enable_mark_occurrences_wsdl_files">
-        <val lang="ja_JP">WSDL ファイル (つまり、メッセージ、操作...)</val>
+        <val lang="ja_JP">WSDL ファイル (例えば メッセージ、操作...)</val>
     </key>
     <key value="Enable_mark_occurrences_xsd_files">
-        <val lang="ja_JP">XML スキーマ ファイル (つまり、タイプ、要素...)</val>
+        <val lang="ja_JP">XML スキーマ ファイル (例えば タイプ、要素...)</val>
     </key>
     <key value="Map_file_no_longer_exists">
         <val lang="ja_JP">選択したマップファイルが見つかりませんでした。リストから削除されます。</val>
@@ -7563,7 +7562,7 @@
         <val lang="ja_JP">ID、IDREFまたはIDREFSタイプの属性値でこの操作を実行できます。</val>
     </key>
     <key value="Enable_mark_occurrences_xml_files">
-        <val lang="ja_JP">XMLファイル（IDなど）</val>
+        <val lang="ja_JP">XMLファイル (ID など)</val>
     </key>
     <key value="Tag_type">
         <val lang="ja_JP">タグタイプ</val>
@@ -7667,7 +7666,8 @@
     </key>
     <key value="Enable_linked_tree_model_message">
         <val lang="ja_JP"
-            >リンクされたツリーモデルを使用して実装されていない限り、ドキュメントの更新は失敗することに注意ください。リンクされたツリーモデルを使用するには、変換シナリオを編集し、Saxon変換エンジン（''{0}''）の構成でオプション''{1}''を有効にしてください。</val>
+            >リンクされたツリーモデルを使用して実装されていない限り、ドキュメントの更新は失敗することに注意ください。リンクされたツリーモデルを使用するには、変換シナリオを編集し、Saxon変換エンジン
+            (''{0}'') の構成でオプション''{1}''を有効にしてください。</val>
     </key>
     <key distribution="common" value="Track_changes_tooltip">
         <val lang="ja_JP">変更の追跡</val>
@@ -7772,7 +7772,7 @@
         <val lang="ja_JP">フィルターは完全一致のみを返します</val>
     </key>
     <key value="Track_changes_final_with_changes_tooltip">
-        <val lang="ja_JP">すべての変更（コメント、挿入、削除）はドキュメント中でハイライトされます</val>
+        <val lang="ja_JP">すべての変更 (コメント、挿入、削除) はドキュメント中でハイライトされます</val>
     </key>
     <key value="Datasource_drivers">
         <val lang="ja_JP">データソースドライバー</val>
@@ -7914,7 +7914,7 @@
         <val lang="ja_JP">元のサイズ :</val>
     </key>
     <key value="Author_custom_attribute_value_editor">
-        <val lang="ja_JP">作者カスタム属性値エディター</val>
+        <val lang="ja_JP">オーサーカスタム属性値エディタ</val>
     </key>
     <key value="Character_map_use_tooltip">
         <val lang="ja_JP">文字マップから追加の文字を選択</val>
@@ -8285,7 +8285,7 @@
     </key>
     <key value="SharePoint_URL_tooltip">
         <val lang="ja_JP">ユーザ名およびパスワードのない SharePoint サーバーの
-            URL（例えば、http://mySharePointServer.com:21/）</val>
+            URL(例えば、http://mySharePointServer.com:21/)</val>
     </key>
     <key value="SharePoint_URL">
         <val lang="ja_JP">SharePoint の URL</val>
@@ -8312,7 +8312,7 @@
         <val lang="ja_JP">インポートするフォルダーの選択</val>
     </key>
     <key value="Review_filter_tooltip">
-        <val lang="ja_JP">作者、コメントおよび内容でレビューを検索するためのフィルタテキストを入力します。\n完全一致を検索する場合は、フィルタテキストを ""
+        <val lang="ja_JP">オーサー、コメントおよび内容でレビューを検索するためのフィルタテキストを入力します。\n完全一致を検索する場合は、フィルタテキストを ""
             で囲んでください。</val>
     </key>
     <key value="Select_files_to_store">
@@ -8485,10 +8485,10 @@
         <val lang="ja_JP">アサート</val>
     </key>
     <key value="Xsd_palette_type_alternative_tooltip">
-        <val lang="ja_JP">要素に関する新しい代替タイプを追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">要素に関する新しい代替タイプを追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_assert_tooltip">
-        <val lang="ja_JP">コンプレックス タイプに関する新しいアサートを追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">コンプレックス タイプに関する新しいアサートを追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Enable_folding">
         <val lang="ja_JP">折り畳みの有効化</val>
@@ -8679,7 +8679,7 @@
         <val lang="ja_JP">同じ名前を持つ別のデータソースが、すでに存在しています。</val>
     </key>
     <key distribution="common" value="Generate_schema_documentation">
-        <val lang="ja_JP">XML スキーマドキュメントを生成する</val>
+        <val lang="ja_JP">XML スキーマドキュメントの生成</val>
     </key>
     <key value="Schema_documentation">
         <val lang="ja_JP">XML スキーマドキュメント</val>
@@ -9591,7 +9591,7 @@
         <val lang="ja_JP">ワークスペース位置の変更</val>
     </key>
     <key type="action" value="Svn_share_files_matching_global_ignore_patterns">
-        <val lang="ja_JP">グローバル無視パターンにマッチするファイルの共有</val>
+        <val lang="ja_JP">グローバル無視パターンに一致するファイルの共有</val>
     </key>
     <key type="action" value="Share">
         <val lang="ja_JP">共有</val>
@@ -9705,7 +9705,7 @@
         <val lang="ja_JP">現在の選択範囲を左にシフト</val>
     </key>
     <key distribution="eclipse" type="action" value="command.description.228">
-        <val lang="ja_JP">作者に問題をレポート</val>
+        <val lang="ja_JP">オーサーに問題をレポート</val>
     </key>
     <key distribution="eclipse" value="category.description.1">
         <val lang="ja_JP">Oxygen XML 開発者 コマンド</val>
@@ -9801,7 +9801,7 @@
         <val lang="ja_JP">XML ファイル</val>
     </key>
     <key distribution="eclipse" value="wizard.description.3">
-        <val lang="ja_JP">サンプルXMLファイルを作成する XMLウィザード</val>
+        <val lang="ja_JP">サンプル XMLファイルを作成する XMLウィザード</val>
     </key>
     <key distribution="eclipse" value="wizard.name.4">
         <val lang="ja_JP">XQuery ファイル</val>
@@ -9858,7 +9858,7 @@
         <val lang="ja_JP">Schematron ファイル</val>
     </key>
     <key distribution="eclipse" value="wizard.description.13">
-        <val lang="ja_JP">サンプルSchematron ファイルを作成するSchematron ウィザード</val>
+        <val lang="ja_JP">サンプル Schematron ファイルを作成するSchematron ウィザード</val>
     </key>
     <key distribution="eclipse" value="wizard.name.15">
         <val lang="ja_JP">XML スキーマ (XSD) ファイル</val>
@@ -10683,7 +10683,7 @@
         <val lang="ja_JP">省略記号</val>
     </key>
     <key value="Null">
-        <val lang="ja_JP">ヌル</val>
+        <val lang="ja_JP">Null</val>
     </key>
     <key value="Boolean">
         <val lang="ja_JP">Boolean</val>
@@ -10914,7 +10914,7 @@
         <val lang="ja_JP">選択されたいくつかのファイルは、他のユーザによってロックされているかもしれません。</val>
     </key>
     <key value="Svn_wc_break_locks_warning">
-        <val lang="ja_JP">選択されたいくつかのファイルは、他のユーザあるいは、他の作業コピーにてロックされています。 処理を本当に継続しますか?\n\n注意:
+        <val lang="ja_JP">選択されたいくつかのファイルは、他のユーザあるいは、他の作業コピーにてロックされています。 処理を本当に継続しますか?\n\n注意 :
             他のユーザのロックを破棄するのは、混乱を生じさせることがあるのでお薦めされません。</val>
     </key>
     <key value="Svn_steal_locks_warning">
@@ -10930,7 +10930,7 @@
         <val lang="ja_JP">選択された作業コピーリソースには、コミットされていない変更があります。</val>
     </key>
     <key value="Prompt_for_each_document">
-        <val lang="ja_JP">個々のドキュメントにプロンプト</val>
+        <val lang="ja_JP">ドキュメントごとに確認する</val>
     </key>
     <key value="Use_edit_reference_action">
         <val lang="ja_JP">"{0}" アクションをコンテキストメニューから使用。</val>
@@ -11138,10 +11138,10 @@
         <val lang="ja_JP">評価目的のみ</val>
     </key>
     <key value="Author_default_foreground_color">
-        <val lang="ja_JP">作者のデフォルト前景色</val>
+        <val lang="ja_JP">オーサーのデフォルト前景色</val>
     </key>
     <key value="Author_default_background_color">
-        <val lang="ja_JP">作者のデフォルト背景色</val>
+        <val lang="ja_JP">オーサーのデフォルト背景色</val>
     </key>
     <key value="Lock_information">
         <val lang="ja_JP">情報をロック</val>
@@ -11438,62 +11438,62 @@
         <val lang="ja_JP">XPath として評価</val>
     </key>
     <key value="Xsd_palette_selector_tooltip">
-        <val lang="ja_JP">識別制約定義に "selector"(セレクタ)を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">識別制約定義に "selector"(セレクタ)を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_field_tooltip">
-        <val lang="ja_JP">識別制約定義に "field"(フィールド)を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">識別制約定義に "field"(フィールド)を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_any_tooltip">
-        <val lang="ja_JP">"any"(任意) ワイルドカードを使うには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"any"(任意) ワイルドカードを使うには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_any_attr_tooltip">
-        <val lang="ja_JP">"anyAttribute"(任意属性) ワイルドカードを使うには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"anyAttribute"(任意属性) ワイルドカードを使うには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_simple_type_tooltip">
-        <val lang="ja_JP">新しい単純型を作成するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">新しい単純型を作成するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_redefine_tooltip">
-        <val lang="ja_JP">"redefine"(再定義)命令を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"redefine"(再定義)命令を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_include_tooltip">
-        <val lang="ja_JP">"include"(含める)命令を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"include"(含める)命令を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_import_tooltip">
-        <val lang="ja_JP">"import"(インポート)命令を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"import"(インポート)命令を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_unique_tooltip">
-        <val lang="ja_JP">"unique"(ユニーク)識別制約を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"unique"(ユニーク)識別制約を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_keyref_tooltip">
         <val lang="ja_JP">"keyref"識別制約を追加するには、 and drop into Design page to add a "keyref" identity
             constraint.</val>
     </key>
     <key value="Xsd_palette_key_tooltip">
-        <val lang="ja_JP">"key"識別制約を追加するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"key"識別制約を追加するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_group_tooltip">
-        <val lang="ja_JP">新しい要素のグループを作成するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">新しい要素のグループを作成するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_element_tooltip">
-        <val lang="ja_JP">新しい要素を作成するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">新しい要素を作成するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_seq_tooltip">
-        <val lang="ja_JP">"sequence"(シーケンス) 合成器を使用するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"sequence"(シーケンス) 合成器を使用するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_choice_tooltip">
-        <val lang="ja_JP">"choice"(選択) 合成器を使用するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"choice"(選択) 合成器を使用するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_all_tooltip">
-        <val lang="ja_JP">"all"(すべて) 合成器を使用するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">"all"(すべて) 合成器を使用するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_ct_tooltip">
-        <val lang="ja_JP">新しい複合型 を作成するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">新しい複合型 を作成するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_attr_tooltip">
-        <val lang="ja_JP">新しい属性を作成するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">新しい属性を作成するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Xsd_palette_attr_group_tooltip">
-        <val lang="ja_JP">新しい属性グループを作成するには、デザインページにドラッグアンドドロップします。</val>
+        <val lang="ja_JP">新しい属性グループを作成するには、デザインページにドラッグ＆ドロップします。</val>
     </key>
     <key value="Do_you_want_to_save_all_archive_opened_files">
         <val lang="ja_JP">すべてのアーカイブに開かれたファイルを保存しますか?</val>
@@ -11835,7 +11835,7 @@
         <val lang="ja_JP">アルゴリズム強度</val>
     </key>
     <key value="Check_display_large_images_option">
-        <val lang="ja_JP">大きな画像を開くために、作者プリファレンスページにて、''{0}'' チェックボックスにチェックできます。</val>
+        <val lang="ja_JP">大きな画像を開くために、オーサープリファレンスページにて、''{0}'' チェックボックスにチェックできます。</val>
     </key>
     <key value="Image_too_large_to_display">
         <val lang="ja_JP">表示するには画像は大きすぎます</val>
@@ -11908,14 +11908,13 @@
         <val lang="ja_JP">プロファイル属性 ''{0}'' を削除できません。それは、次の条件設定で使用されています : {1}</val>
     </key>
     <key value="Diff_change_algorithm_message">
-        <val lang="ja_JP">The files are too complex to be compared using {0}
-            アルゴリズムで比較するにはそのファイルは複雑すぎます。代わりに {1} アルゴリズムの使用が推奨されます。</val>
+        <val lang="ja_JP">{0} アルゴリズムで比較するには、ファイルが複雑すぎます。代わりに {1} アルゴリズムの使用をお勧めします。</val>
     </key>
     <key value="Diff_oom_change_algorithm_message">
         <val lang="ja_JP">問題が続くなら、 {0} アルゴリズムの使用が推奨されます。</val>
     </key>
     <key value="Diff_algorithm_oom_message">
-        <val lang="ja_JP">アプリケーションは、利用可能なメモリを超過しました: {0}MB.\n現在のファイルに対して {1}
+        <val lang="ja_JP">アプリケーションは、利用可能なメモリを超過しました : {0}MB.\n現在のファイルに対して {1}
             アルゴリズムを成功裏に適用するには、アプリケーションに対して利用可能なメモリ容量を少なくとも {2}MB 増やすべきです。</val>
     </key>
     <key value="Clear_history_confirmation">
@@ -12302,13 +12301,13 @@
         <val lang="ja_JP">項目の内容は、レポジトリから受け取った更新と競合しています。</val>
     </key>
     <key value="Svn_item_tree_conflicted_tooltip">
-        <val lang="ja_JP">項目は、ツリー競合状態にあります:</val>
+        <val lang="ja_JP">項目は、ツリー競合状態にあります :</val>
     </key>
     <key value="Svn_item_added_tooltip">
         <val lang="ja_JP">項目は、追加するとして予約されています。</val>
     </key>
     <key value="Svn_item_copied_tooltip">
-        <val lang="ja_JP">項目は、履歴と共に追加する（コピー)として予約されています。</val>
+        <val lang="ja_JP">項目は、履歴と共に追加する(コピー)として予約されています。</val>
     </key>
     <key value="Enable_back_mapping">
         <val lang="ja_JP">バック マッピングの有効化</val>
@@ -12317,7 +12316,7 @@
         <val lang="ja_JP">バック マッピングの無効化</val>
     </key>
     <key value="Remote_author">
-        <val lang="ja_JP">リモート 作者</val>
+        <val lang="ja_JP">リモート オーサー</val>
     </key>
     <key value="Remote_date">
         <val lang="ja_JP">リモート 日付</val>
@@ -12434,13 +12433,13 @@
         <val lang="ja_JP">すべて検索</val>
     </key>
     <key value="Default_space">
-        <val lang="ja_JP">デフォルト空間</val>
+        <val lang="ja_JP">デフォルト空白</val>
     </key>
     <key value="Mixed_content">
-        <val lang="ja_JP">混在した内容</val>
+        <val lang="ja_JP">混合コンテンツ</val>
     </key>
     <key value="Preserve_space">
-        <val lang="ja_JP">保存された空間</val>
+        <val lang="ja_JP">空白保持</val>
     </key>
     <key value="Elements_Spacing">
         <val lang="ja_JP">要素 間隔</val>
@@ -12623,7 +12622,7 @@
         <val lang="ja_JP">スキーマで検証</val>
     </key>
     <key distribution="common" value="Check_well_formed">
-        <val lang="ja_JP">整形式(Well-Formed)の確認</val>
+        <val lang="ja_JP">整形式 (Well-Formed) の確認</val>
     </key>
     <key value="Show_hidden_files">
         <val lang="ja_JP">隠しファイルを表示</val>
@@ -13037,7 +13036,7 @@
         <val lang="ja_JP">有効な要素と属性の挿入のみを許可</val>
     </key>
     <key value="Delete_element_tags_with_backspace_and_delete">
-        <val lang="ja_JP">バックスペースおよびデリートにて要素タグを削除</val>
+        <val lang="ja_JP">Backspace および Delete で要素タグを削除</val>
     </key>
     <key value="Warn_on_invalid_content_when_performing_action">
         <val lang="ja_JP">アクションの実行時に、無効な内容を警告</val>
@@ -13046,7 +13045,7 @@
         <val lang="ja_JP">タイピング</val>
     </key>
     <key value="Paste_and_drag_and_drop">
-        <val lang="ja_JP">貼り付けおよびドラッグアンドドロップ</val>
+        <val lang="ja_JP">貼り付け および ドラッグ＆ドロップ</val>
     </key>
     <key value="Schema_aware_actions">
         <val lang="ja_JP">スキーマ考慮のアクション</val>
@@ -13067,7 +13066,7 @@
         <val lang="ja_JP">データソースエクスプローラーにて、テーブル種別の表示</val>
     </key>
     <key value="Public_known_hosts_file">
-        <val lang="ja_JP">パブリックな既知のhostsファイル</val>
+        <val lang="ja_JP">パブリックな既知の hostsファイル</val>
     </key>
     <key value="Standalone">
         <val lang="ja_JP">スタンドアローン</val>
@@ -13142,7 +13141,7 @@
         <val lang="ja_JP">スキーマを考慮した編集</val>
     </key>
     <key value="Smart_paste_DnD">
-        <val lang="ja_JP">スマート 貼り付け およびドラッグアンドドロップ</val>
+        <val lang="ja_JP">スマート貼り付け および ドラッグ＆ドロップ</val>
     </key>
     <key value="Import_files">
         <val lang="ja_JP">インポート ファイル</val>
@@ -13230,13 +13229,13 @@
         <val lang="ja_JP">エディタ タブの配置</val>
     </key>
     <key value="View_tab_placement">
-        <val lang="ja_JP">タブ配置の表示</val>
+        <val lang="ja_JP">ビュー タブの配置</val>
     </key>
     <key value="Bottom">
-        <val lang="ja_JP">下へ</val>
+        <val lang="ja_JP">下</val>
     </key>
     <key value="Top">
-        <val lang="ja_JP">上へ</val>
+        <val lang="ja_JP">上</val>
     </key>
     <key value="Comparing_status">
         <val lang="ja_JP">{0} と {1} の比較</val>
@@ -13257,7 +13256,7 @@
         <val lang="ja_JP">処理手順の表示</val>
     </key>
     <key value="Dot_matches_all_tooltip">
-        <val lang="ja_JP">式 '.'(ドット) は、行区切り文字を含む任意の文字とマッチします。</val>
+        <val lang="ja_JP">式 '.'(ドット) は、行区切り文字を含む任意の文字と一致します。</val>
     </key>
     <key value="Dot_matches_all">
         <val lang="ja_JP">ドットはすべてと一致</val>
@@ -13278,14 +13277,14 @@
         <val lang="ja_JP">再帰的に追加</val>
     </key>
     <key value="High_priority_libs_info">
-        <val lang="ja_JP">Ant変換の実行時に、以下の優先度の高いライブラリが自動的に Oxygenによって 追加されます。</val>
+        <val lang="ja_JP">Ant 変換の実行時に、以下の優先度の高いライブラリが自動的に Oxygen によって 追加されます。</val>
     </key>
     <key value="Full_control_libs_warning">
-        <val lang="ja_JP">Antプロセスの実行時に、Oxygenがデフォルトで加えるライブラリと
+        <val lang="ja_JP">Antプロセスの実行時に、Oxygen がデフォルトで加えるライブラリと
             パッチの完全なコントロールが欲しい場合にだけ、このオプションのチェックを外してください。</val>
     </key>
     <key value="Allow_high_priority_libraries_to_classpath">
-        <val lang="ja_JP">Oxygenが優先度の高いライブラリをクラスパスに追加することを許可</val>
+        <val lang="ja_JP">Oxygen が優先度の高いライブラリをクラスパスに追加することを許可</val>
     </key>
     <key value="More_details">
         <val lang="ja_JP">さらに詳細</val>
@@ -13375,10 +13374,10 @@
         <val lang="ja_JP">ユニーク属性 レコグナイザ</val>
     </key>
     <key value="Author_extension_state_listener">
-        <val lang="ja_JP">作者 エクステンション状態 リスナ</val>
+        <val lang="ja_JP">オーサー エクステンション状態 リスナ</val>
     </key>
     <key value="Author_drag_and_drop_listener">
-        <val lang="ja_JP">作者 ドラッグ＆ドロップ リスナ</val>
+        <val lang="ja_JP">オーサー ドラッグ＆ドロップ リスナ</val>
     </key>
     <key value="Text_drag_and_drop_listener">
         <val lang="ja_JP">テキスト ドラッグ＆ドロップ リスナ</val>
@@ -13874,10 +13873,10 @@
         <val lang="ja_JP">隠しファイル</val>
     </key>
     <key value="Show_open_map_in_ditamap_manager_confirmation">
-        <val lang="ja_JP">マップを開く時:</val>
+        <val lang="ja_JP">マップを開く時 :</val>
     </key>
     <key value="Always_open_as_xml">
-        <val lang="ja_JP">常にXMLとして開く</val>
+        <val lang="ja_JP">常に XML として開く</val>
     </key>
     <key value="Always_open_in_dita_manager">
         <val lang="ja_JP">常に DITA マップ マネージャ内で開く</val>
@@ -14202,7 +14201,7 @@
         <val lang="ja_JP">インスタンス</val>
     </key>
     <key value="Used_by">
-        <val lang="ja_JP">以下で使用:</val>
+        <val lang="ja_JP">以下で使用 :</val>
     </key>
     <key value="Custom_format_options">
         <val lang="ja_JP">カスタム フォーマット オプション</val>
@@ -14220,7 +14219,7 @@
         <val lang="ja_JP">図表の生成中</val>
     </key>
     <key value="Serializing_into_xml_format">
-        <val lang="ja_JP">XML形式へシリアライズ中</val>
+        <val lang="ja_JP">XML 形式へシリアライズ中</val>
     </key>
     <key value="Generating_documentation_output">
         <val lang="ja_JP">ドキュメント出力の生成中</val>
@@ -14545,10 +14544,10 @@
         <val lang="ja_JP">リビジョンのためのコミットメッセージの変更</val>
     </key>
     <key value="Change_author_name_revision">
-        <val lang="ja_JP">リビジョンのための作者名の変更</val>
+        <val lang="ja_JP">リビジョンのためのオーサー名の変更</val>
     </key>
     <key value="Author_name_empty">
-        <val lang="ja_JP">作者名は空白にはできません</val>
+        <val lang="ja_JP">オーサー名は空白にはできません</val>
     </key>
     <key value="Could_not_remove_resources">
         <val lang="ja_JP">リソースを削除することができませんでした :</val>
@@ -14608,7 +14607,7 @@
         <val lang="ja_JP">新しいマップの場所にしたがってリファレンスの更新を行いますか?</val>
     </key>
     <key value="Only_for_local_dtds_xml_schemas">
-        <val lang="ja_JP">ローカルのDTDs/XML スキーマ のみ</val>
+        <val lang="ja_JP">ローカルの DTDs/XML スキーマ のみ</val>
     </key>
     <key value="DTD_XML_Schema_support_in_document_type_detection">
         <val lang="ja_JP">ドキュメント種別の判別で、DTD/XML スキーマ処理を有効にする</val>
@@ -14955,7 +14954,7 @@
         <val lang="ja_JP">すべての RELAX NG 注釈 をドキュメントとして使う</val>
     </key>
     <key value="To_reload_image_use_Refresh_action">
-        <val lang="ja_JP">画像を再読み込みするには リフレッシュ(F5 キー) 操作を使ってください。</val>
+        <val lang="ja_JP">画像を再読み込みするには リフレッシュ(F5キー)操作を使ってください。</val>
     </key>
     <key value="Enable_HTTP_warning">
         <val lang="ja_JP">警告 : これは他のプラグインの機能性に影響があるかもしれません。</val>
@@ -15096,13 +15095,13 @@
         <val lang="ja_JP">パスを展開</val>
     </key>
     <key value="An_action_with_the_same_id_is_already_defined">
-        <val lang="ja_JP">同じIDを持つアクションが既に定義されています</val>
+        <val lang="ja_JP">同じ ID を持つアクションが既に定義されています</val>
     </key>
     <key value="The_action_name_is_required">
         <val lang="ja_JP">アクション名が必要です</val>
     </key>
     <key value="The_action_id_is_required">
-        <val lang="ja_JP">アクションIDが必要です</val>
+        <val lang="ja_JP">アクション ID が必要です</val>
     </key>
     <key value="Edit_argument_value">
         <val lang="ja_JP">引数値の編集</val>
@@ -15132,7 +15131,7 @@
         <val lang="ja_JP">代替スタイルシートにはタイトルが必要です</val>
     </key>
     <key value="You_must_specify_a_css_uri">
-        <val lang="ja_JP">CSS URIを指定する必要があります</val>
+        <val lang="ja_JP">CSS URI を指定する必要があります</val>
     </key>
     <key value="Alternate">
         <val lang="ja_JP">代替</val>
@@ -15223,7 +15222,7 @@
         <val lang="ja_JP">新しいファイルを作成</val>
     </key>
     <key value="Optimize">
-        <val lang="ja_JP">最適</val>
+        <val lang="ja_JP">最適化</val>
     </key>
     <key value="Cannot_find_displayed_language_of_spell_check_dictionary">
         <val lang="ja_JP">表示されている言語のためのスペルチェック辞書が見つかりません</val>
@@ -15399,7 +15398,7 @@
         <val lang="ja_JP">あなたは最新のバージョンを使っています。</val>
     </key>
     <key value="You_can_perform_this_operation_on_NVDL">
-        <val lang="ja_JP">この操作は次の上で実行可能です: named modes</val>
+        <val lang="ja_JP">この操作は次の上で実行可能です : named modes</val>
     </key>
     <key value="Show_dynamic_help_view">
         <val lang="ja_JP">ダイナミックヘルプパネルの表示</val>
@@ -15422,7 +15421,7 @@
         <val lang="ja_JP">ご試用ありがとうございます</val>
     </key>
     <key value="Enable_nvdl_diagram_views">
-        <val lang="ja_JP">NVDL図表および関連するパネルの有効化</val>
+        <val lang="ja_JP">NVDL 図表および関連するパネルの有効化</val>
     </key>
     <key value="Show_NVDL_diagram">
         <val lang="ja_JP">NVDL 図表の表示</val>
@@ -15542,10 +15541,10 @@
         <val lang="ja_JP">展開/折り畳み</val>
     </key>
     <key value="Apply_XML_SQL_input_required">
-        <val lang="ja_JP">有効なSQL URLを入力とする必要があります</val>
+        <val lang="ja_JP">有効な SQL URLを入力とする必要があります</val>
     </key>
     <key value="Apply_XML_XQUERY_input_required">
-        <val lang="ja_JP">有効なXQuery URLを入力とする必要があります</val>
+        <val lang="ja_JP">有効な XQuery URLを入力とする必要があります</val>
     </key>
     <key value="Show">
         <val lang="ja_JP">表示</val>
@@ -15710,7 +15709,7 @@
         <val lang="ja_JP">ローカル</val>
     </key>
     <key value="The_connection">
-        <val lang="ja_JP">コネクション</val>
+        <val lang="ja_JP">接続</val>
     </key>
     <key value="does_no_longer_exist">
         <val lang="ja_JP">は、すでに存在しません。</val>
@@ -15794,16 +15793,16 @@
         <val lang="ja_JP">スキーマの場所</val>
     </key>
     <key value="Cell_content_is_valid">
-        <val lang="ja_JP">XMLセルの内容は有効です。</val>
+        <val lang="ja_JP">XML セルの内容は有効です。</val>
     </key>
     <key value="Insert_XML_file">
         <val lang="ja_JP">XMLファイルの挿入</val>
     </key>
     <key value="Set_NULL">
-        <val lang="ja_JP">NULLをセット</val>
+        <val lang="ja_JP">NULL をセット</val>
     </key>
     <key value="Close_all_active_XML_cell_editors">
-        <val lang="ja_JP">この操作はすべてのアクティブなXMLセルエディタを閉じる必要があります。</val>
+        <val lang="ja_JP">この操作はすべてのアクティブな XMLセルエディタを閉じる必要があります。</val>
     </key>
     <key value="Delete_row">
         <val lang="ja_JP">行を削除</val>
@@ -16004,7 +16003,7 @@
         <val lang="ja_JP">デフォルトの列幅 (文字)</val>
     </key>
     <key value="Compact_representation">
-        <val lang="ja_JP">コンパクトな表現</val>
+        <val lang="ja_JP">コンパクトに表示</val>
     </key>
     <key value="Associate_xslt_css_stylesheet">
         <val lang="ja_JP">XSLT/CSS スタイルシートの割り当て</val>
@@ -16032,7 +16031,7 @@
         <val lang="ja_JP">言語の変更</val>
     </key>
     <key value="Other_language">
-        <val lang="ja_JP">その他の言語</val>
+        <val lang="ja_JP">言語ファイルの指定</val>
     </key>
     <key value="Show_function_signatures">
         <val lang="ja_JP">XSLT/XPath 関数のシグネチャを表示</val>
@@ -16535,7 +16534,7 @@
         <val lang="ja_JP">日時</val>
     </key>
     <key distribution="common" value="Author">
-        <val lang="ja_JP">作者</val>
+        <val lang="ja_JP">オーサー</val>
     </key>
     <key value="Last_change_revision">
         <val lang="ja_JP">最後に変更されたリビジョン</val>
@@ -16778,7 +16777,7 @@
         <val lang="ja_JP">認証をリセット</val>
     </key>
     <key distribution="common" value="Generate_sample_xml_files">
-        <val lang="ja_JP">サンプルXMLファイルの生成</val>
+        <val lang="ja_JP">サンプル XMLファイルの生成</val>
     </key>
     <key value="Locked_items">
         <val lang="ja_JP">ロックされた項目</val>
@@ -16802,7 +16801,7 @@
         <val lang="ja_JP">ロックを壊す</val>
     </key>
     <key distribution="common" value="Generate_documentation">
-        <val lang="ja_JP">ドキュメントを生成</val>
+        <val lang="ja_JP">ドキュメントの生成</val>
     </key>
     <key distribution="common" value="WSDL_documentation">
         <val lang="ja_JP">WSDL ドキュメント</val>
@@ -16895,7 +16894,7 @@
         <val lang="ja_JP">内容全部に一致 (複数行範囲)</val>
     </key>
     <key value="Enter_values_to_be_matched_one_per_line">
-        <val lang="ja_JP">一行毎に一致する値を入力</val>
+        <val lang="ja_JP">1 行毎に一致する値を入力</val>
     </key>
     <key value="each_line">
         <val lang="ja_JP">各行</val>
@@ -17021,7 +17020,7 @@
         <val lang="ja_JP">操作を実行中</val>
     </key>
     <key value="Toggle_line_wrap">
-        <val lang="ja_JP">行折り返しを切り替え</val>
+        <val lang="ja_JP">行折り返しの切り替え</val>
     </key>
     <key value="Foreground">
         <val lang="ja_JP">前景</val>
@@ -17168,7 +17167,7 @@
         <val lang="ja_JP">軸を含める</val>
     </key>
     <key value="Include_XSLT_functions">
-        <val lang="ja_JP">XSLT関数を含める</val>
+        <val lang="ja_JP">XSLT 関数を含める</val>
     </key>
     <key value="Include_XPath_functions">
         <val lang="ja_JP">XPath 関数を含める</val>
@@ -17568,7 +17567,7 @@
         <val lang="ja_JP">階層</val>
     </key>
     <key value="No_schema_associated">
-        <val lang="ja_JP">ドキュメントに関連しているスキーマもDTDもありません</val>
+        <val lang="ja_JP">ドキュメントに関連しているスキーマも DTD もありません</val>
     </key>
     <key value="References">
         <val lang="ja_JP">リファレンス</val>
@@ -17589,7 +17588,7 @@
         <val lang="ja_JP">ドキュメントのDTDの読み込みをスキップ</val>
     </key>
     <key value="No_net_for_fetch_dtds_entities_docs">
-        <val lang="ja_JP">要素やドキュメントのDTDを参照するのにインターネットを使用しない</val>
+        <val lang="ja_JP">要素やドキュメントの DTD を参照するのにインターネットを使用しない</val>
     </key>
     <key value="Show_all_loaded_documents">
         <val lang="ja_JP">処理中に読み込まれたすべてのドキュメントの表示</val>
@@ -17607,7 +17606,7 @@
         <val lang="ja_JP">ディレクトリの作成を拒否</val>
     </key>
     <key value="Do_not_apply_default_attributes_from_dtd">
-        <val lang="ja_JP">ドキュメントのDTDからのデフォルト属性を適用しない</val>
+        <val lang="ja_JP">ドキュメントの DTD からのデフォルト属性を適用しない</val>
     </key>
     <key value="Support_center">
         <val lang="ja_JP">サポートセンター</val>
@@ -17730,7 +17729,7 @@
         <val lang="ja_JP">XPath バージョン</val>
     </key>
     <key value="Edit_additional_XSLT_stylesheets_list">
-        <val lang="ja_JP">追加のXSLT スタイルシートリストを編集</val>
+        <val lang="ja_JP">追加の XSLT スタイルシートリストを編集</val>
     </key>
     <key value="Additional_XSLT_stylesheets">
         <val lang="ja_JP">追加のXSLT スタイルシート</val>
@@ -17766,7 +17765,7 @@
         <val lang="ja_JP">子を展開</val>
     </key>
     <key value="XML_Spell_checking_in">
-        <val lang="ja_JP">次に対してXML スペルチェック</val>
+        <val lang="ja_JP">以下に対して XML スペルチェック</val>
     </key>
     <key value="Attribute_values">
         <val lang="ja_JP">属性値</val>
@@ -17847,10 +17846,10 @@
         <val lang="ja_JP">設定の表示</val>
     </key>
     <key value="Export_to_XML">
-        <val lang="ja_JP">XMLにエクスポート</val>
+        <val lang="ja_JP">XML にエクスポート</val>
     </key>
     <key value="Export_to_HTML">
-        <val lang="ja_JP">HTMLにエクスポート</val>
+        <val lang="ja_JP">HTML にエクスポート</val>
     </key>
     <key value="Ignored_invocations">
         <val lang="ja_JP">無視された呼び出し</val>
@@ -17868,7 +17867,7 @@
         <val lang="ja_JP">時間スケール</val>
     </key>
     <key value="Relative">
-        <val lang="ja_JP">比例</val>
+        <val lang="ja_JP">相対</val>
     </key>
     <key value="Absolute">
         <val lang="ja_JP">絶対</val>
@@ -17967,7 +17966,7 @@
         <val lang="ja_JP">元のドキュメントの比較</val>
     </key>
     <key value="Show_RELAX_NG_diagram">
-        <val lang="ja_JP">RELAX NG 図表の表示</val>
+        <val lang="ja_JP">RELAX NG図表の表示</val>
     </key>
     <key value="Remove_from_project">
         <val lang="ja_JP">プロジェクトから削除</val>
@@ -18417,7 +18416,7 @@
         <val lang="ja_JP">要素</val>
     </key>
     <key value="Enable_id_idref_check">
-        <val lang="ja_JP">ID/IDREFをチェック</val>
+        <val lang="ja_JP">ID/IDREF をチェック</val>
     </key>
     <key value="Enable_feasibly_valid_check">
         <val lang="ja_JP">実行可能かどうかチェック</val>
@@ -18465,7 +18464,7 @@
         <val lang="ja_JP">選択範囲をアンエスケープ</val>
     </key>
     <key value="Enable_smart_enter">
-        <val lang="ja_JP">スマート改行を有効</val>
+        <val lang="ja_JP">スマート改行を有効化</val>
     </key>
     <key value="Frameworks_dir">
         <val lang="ja_JP">Oxygen フレームワークディレクトリ</val>
@@ -18507,10 +18506,10 @@
         <val lang="ja_JP">次で開く</val>
     </key>
     <key value="Press_F2_for_focus">
-        <val lang="ja_JP">F2を押してフォーカス</val>
+        <val lang="ja_JP">F2 を押してフォーカス</val>
     </key>
     <key value="Press_Shift_F2_for_focus">
-        <val lang="ja_JP">Shift+F2を押してフォーカス</val>
+        <val lang="ja_JP">Shift + F2 を押してフォーカス</val>
     </key>
     <key value="Surround_with">
         <val lang="ja_JP">前回のタグで囲む</val>
@@ -18555,7 +18554,7 @@
         <val lang="ja_JP">折り畳み</val>
     </key>
     <key value="Schematron_phase_chooser">
-        <val lang="ja_JP">Schematron Phaseの選択</val>
+        <val lang="ja_JP">Schematron Phase の選択</val>
     </key>
     <key value="Column">
         <val lang="ja_JP">列</val>
@@ -18775,7 +18774,7 @@
         <val lang="ja_JP">オプションのコンテンツの追加</val>
     </key>
     <key value="Highlight_current_line">
-        <val lang="ja_JP">現在行をハイライト</val>
+        <val lang="ja_JP">現在行のハイライト</val>
     </key>
     <key value="Open">
         <val lang="ja_JP">開く</val>
@@ -19001,7 +19000,7 @@
         <val lang="ja_JP">行</val>
     </key>
     <key value="No_XML_document_selected">
-        <val lang="ja_JP">XML文章が選択されていません</val>
+        <val lang="ja_JP">XML ドキュメントが選択されていません</val>
     </key>
     <key value="No_XSL_document_selected">
         <val lang="ja_JP">XSL ドキュメントが選択されていません</val>
@@ -19010,7 +19009,7 @@
         <val lang="ja_JP">コンパイル中</val>
     </key>
     <key value="Creating_transformer">
-        <val lang="ja_JP">Transformerの作成</val>
+        <val lang="ja_JP">Transformer の作成</val>
     </key>
     <key value="Starting_transformation">
         <val lang="ja_JP">変換の開始</val>
@@ -19103,22 +19102,22 @@
         <val lang="ja_JP">上に移動</val>
     </key>
     <key value="Open_stylesheet_URL_tooltip">
-        <val lang="ja_JP">スタイルシートURLを開く</val>
+        <val lang="ja_JP">スタイルシート URLを開く</val>
     </key>
     <key value="Remove_stylesheet_URL_tooltip">
-        <val lang="ja_JP">スタイルシートURLの削除</val>
+        <val lang="ja_JP">スタイルシート URL の削除</val>
     </key>
     <key value="Add_stylesheet_URL_tooltip">
-        <val lang="ja_JP">スタイルシートURLの追加</val>
+        <val lang="ja_JP">スタイルシート URL の追加</val>
     </key>
     <key value="Image_base_url_value_not_valid_url">
-        <val lang="ja_JP">画像URL項目に有効なURLの値を入れる必要があります</val>
+        <val lang="ja_JP">画像 URL 項目に有効な URL の値を入れる必要があります</val>
     </key>
     <key value="Header_url_value_not_valid_url">
-        <val lang="ja_JP">ヘッダURL項目に有効なURLの値を入れる必要があります</val>
+        <val lang="ja_JP">ヘッダ URL 項目に有効な URL の値を入れる必要があります</val>
     </key>
     <key value="Footer_url_value_not_valid_url">
-        <val lang="ja_JP">フッタURL項目に有効なURLの値を入れる必要があります</val>
+        <val lang="ja_JP">フッタ URL 項目に有効な URL の値を入れる必要があります</val>
     </key>
     <key value="Choose_the_input_schema">
         <val lang="ja_JP">入力スキーマの選択</val>
@@ -19166,10 +19165,10 @@
         <val lang="ja_JP">システムデフォルト</val>
     </key>
     <key value="Line_separator_unix">
-        <val lang="ja_JP">Unixライク</val>
+        <val lang="ja_JP">Unix ライク</val>
     </key>
     <key value="Line_separator_windows">
-        <val lang="ja_JP">Windowsライク</val>
+        <val lang="ja_JP">Windows ライク</val>
     </key>
     <key value="Line_separator">
         <val lang="ja_JP">改行コード</val>
@@ -19187,7 +19186,7 @@
         <val lang="ja_JP">ライセンスをディスクに保存できません</val>
     </key>
     <key value="You_have_to_delete_the_doctype_below">
-        <val lang="ja_JP">以下のDOCTYPEを削除する必要があります</val>
+        <val lang="ja_JP">以下の DOCTYPE を削除する必要があります</val>
     </key>
     <key distribution="common" value="Save_structure_XML_tooltip">
         <val lang="ja_JP">構造を保存</val>
@@ -19242,7 +19241,7 @@
         <val lang="ja_JP">プロセッサ</val>
     </key>
     <key value="Browse_Xml_Local_Tooltip">
-        <val lang="ja_JP">ローカルの入力XMLファイルのブラウズ</val>
+        <val lang="ja_JP">ローカルの入力 XMLファイルの参照</val>
     </key>
     <key value="Check_for_new_version">
         <val lang="ja_JP">新しいバージョンの確認</val>
@@ -19263,7 +19262,7 @@
         <val lang="ja_JP">新規フォルダー</val>
     </key>
     <key value="Base_url_tooltip">
-        <val lang="ja_JP">編集されたファイルURLに関連する画像を解決するためにブランクを除きます</val>
+        <val lang="ja_JP">編集されたファイル URL に関連する画像を解決するためにブランクを除きます</val>
     </key>
     <key value="File_URL">
         <val lang="ja_JP">ファイルURL :</val>
@@ -19279,7 +19278,7 @@
         <val lang="ja_JP">ライブラリ</val>
     </key>
     <key value="Show_TAB_NBSP_EOL_EOF_marks">
-        <val lang="ja_JP">TAB/NBSP/EOL/EOFマークの表示</val>
+        <val lang="ja_JP">TAB/NBSP/EOL/EOF マークの表示</val>
     </key>
     <key value="File_Close_Others">
         <val lang="ja_JP">他のファイルを閉じる</val>
@@ -19322,7 +19321,7 @@
         <val lang="ja_JP">作成 1</val>
     </key>
     <key value="Save_URL">
-        <val lang="ja_JP">FTP/WebDAVを使って保存</val>
+        <val lang="ja_JP">FTP/WebDAV を使って保存</val>
     </key>
     <key value="Start_editing">
         <val lang="ja_JP">編集を開始</val>
@@ -19367,7 +19366,7 @@
         <val lang="ja_JP">選択</val>
     </key>
     <key distribution="common" value="Pretty_print">
-        <val lang="ja_JP">整形印刷</val>
+        <val lang="ja_JP">整形とインデント</val>
     </key>
     <key distribution="common" value="Rename">
         <val lang="ja_JP">名前の変更</val>
@@ -19421,7 +19420,7 @@
         <val lang="ja_JP">プロジェクト</val>
     </key>
     <key value="XSLT_result_as_input">
-        <val lang="ja_JP">XSLTの結果を入力とする</val>
+        <val lang="ja_JP">XSLT の結果を入力とする</val>
     </key>
     <key value="Duplicate_word">
         <val lang="ja_JP">語句の複製</val>
@@ -19430,7 +19429,7 @@
         <val lang="ja_JP">バージョン情報</val>
     </key>
     <key value="Open_URL">
-        <val lang="ja_JP">SFTP/WebDAVを使って開く</val>
+        <val lang="ja_JP">SFTP/WebDAV を使って開く</val>
     </key>
     <key value="Confirm">
         <val lang="ja_JP">確認</val>
@@ -19500,7 +19499,7 @@
         <val lang="ja_JP">要素を挿入</val>
     </key>
     <key value="Wrong_xerces_impl_1">
-        <val lang="ja_JP">期待されるXercesのバージョン</val>
+        <val lang="ja_JP">期待される Xerces のバージョン</val>
     </key>
     <key value="Wrong_xerces_impl_2">
         <val lang="ja_JP">バージョンが原因で読み込まれませんでした</val>
@@ -19516,14 +19515,14 @@
         <val lang="ja_JP">ユーザー</val>
     </key>
     <key value="Check_XHTML_tooltip">
-        <val lang="ja_JP">XHTMLパネルにて結果を見たい場合はこれを確認してください</val>
+        <val lang="ja_JP">XHTML パネルにて結果を見たい場合はこれを確認してください</val>
     </key>
     <key value="Tip_of_the_day">
         <comment/>
         <val lang="ja_JP">今日のヒント</val>
     </key>
     <key value="Select_FO_processor_tooltip">
-        <val lang="ja_JP">FOプロセッサの選択</val>
+        <val lang="ja_JP">FO プロセッサの選択</val>
     </key>
     <key distribution="common" value="Convert_to">
         <val lang="ja_JP">変換先</val>
@@ -19538,7 +19537,7 @@
         <val lang="ja_JP">出力</val>
     </key>
     <key value="Apply_transform_XSL_tooltip">
-        <val lang="ja_JP">変換に指定するXSLTドキュメントのURL</val>
+        <val lang="ja_JP">変換に指定する XSLTドキュメントの URL</val>
     </key>
     <key value="Font_family">
         <val lang="ja_JP">フォント :</val>
@@ -19670,7 +19669,7 @@
         <val lang="ja_JP">名前</val>
     </key>
     <key value="Apply_XML_XSL_input_required">
-        <val lang="ja_JP">有効なXSL URLを入力とする必要があります</val>
+        <val lang="ja_JP">有効な XSL URLを入力とする必要があります</val>
     </key>
     <key value="Options">
         <val lang="ja_JP">オプション</val>
@@ -19874,7 +19873,7 @@
         <val lang="ja_JP">申し訳ありませんが、この処理は実行することができません。</val>
     </key>
     <key value="Document_is_wellformed">
-        <val lang="ja_JP">ドキュメントはwell formedです。</val>
+        <val lang="ja_JP">ドキュメントは整形式です。</val>
     </key>
     <key value="Default_Internet_browser">
         <comment/>
@@ -19898,7 +19897,7 @@
         <val lang="ja_JP">不正な入力</val>
     </key>
     <key value="Check_input_radio_button_tooltip">
-        <val lang="ja_JP">変換の結果にFO処理を適用したい場合はチェック</val>
+        <val lang="ja_JP">変換の結果に FO 処理を適用したい場合はチェック</val>
     </key>
     <key value="Cant_save_the_file">
         <val lang="ja_JP">ファイルを保存できません</val>
@@ -19917,7 +19916,7 @@
         <val lang="ja_JP">ライセンス</val>
     </key>
     <key value="Text_to_find">
-        <val lang="ja_JP">検索するテキスト:</val>
+        <val lang="ja_JP">検索テキスト :</val>
     </key>
     <key value="Resource">
         <val lang="ja_JP">リソース</val>
@@ -19954,7 +19953,7 @@
         <val lang="ja_JP">7 に移動</val>
     </key>
     <key value="External_FO_processors">
-        <val lang="ja_JP">外部のFOプロセッサ</val>
+        <val lang="ja_JP">外部の FO プロセッサ</val>
     </key>
     <key value="Registration_succesful">
         <comment/>
@@ -20016,7 +20015,7 @@
         <val lang="ja_JP">エディタのキャレット色</val>
     </key>
     <key value="Check_XML_tooltip">
-        <val lang="ja_JP">XMLパネルにて結果を見たい場合はチェック</val>
+        <val lang="ja_JP">XML パネルにて結果を見たい場合はチェック</val>
     </key>
     <key value="Plugins">
         <val lang="ja_JP">プラグイン</val>
@@ -20060,7 +20059,7 @@
         <val lang="ja_JP">属性</val>
     </key>
     <key value="Perform_FOP">
-        <val lang="ja_JP">FOプロセスを実行</val>
+        <val lang="ja_JP">FO プロセスを実行</val>
     </key>
     <key value="This_folder_was_already_added">
         <comment/>
@@ -20080,7 +20079,7 @@
         <val lang="ja_JP">閉じる</val>
     </key>
     <key value="Check_perform_FOP_tooltip">
-        <val lang="ja_JP">FO処理を実行したい場合はチェック</val>
+        <val lang="ja_JP">FO 処理を実行したい場合はチェック</val>
     </key>
     <key value="File_Print_Results">
         <val lang="ja_JP">結果を印刷</val>
@@ -20176,7 +20175,7 @@
         <val lang="ja_JP">検索されたファイル</val>
     </key>
     <key value="Line_width_format_and_indent">
-        <val lang="ja_JP">行幅 - 整形印刷</val>
+        <val lang="ja_JP">行幅 - 整形とインデント</val>
     </key>
     <key value="Line_width">
         <val lang="ja_JP">行幅</val>
@@ -20290,7 +20289,7 @@
         <val lang="ja_JP">構造を学習</val>
     </key>
     <key value="Verbosity">
-        <val lang="ja_JP">詳細さ</val>
+        <val lang="ja_JP">詳細度</val>
     </key>
     <key value="File_Save_All">
         <val lang="ja_JP">すべて保存</val>
